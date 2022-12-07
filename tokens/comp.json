@@ -10,13 +10,13 @@
         },
         "hover": {
           "color": {
-            "value": "{palette.primary60}",
+            "value": "{color.primary.primary-hover}",
             "type": "color"
           }
         },
         "pressed": {
           "color": {
-            "value": "{palette.primary70}",
+            "value": "{color.primary.primary-pressed}",
             "type": "color"
           }
         },
@@ -102,7 +102,7 @@
         },
         "pressed": {
           "color": {
-            "value": "{palette.primary10}",
+            "value": "rgba({color.primary.primary-container},0.8)",
             "type": "color"
           },
           "elevation": {

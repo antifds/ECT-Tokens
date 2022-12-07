@@ -81,7 +81,7 @@
   },
   "border-radius": {
     "button": {
-      "value": "{border-radius.m}",
+      "value": "none",
       "type": "borderRadius"
     },
     "icon": {
@@ -89,7 +89,7 @@
       "type": "borderRadius"
     },
     "card": {
-      "value": "{border-radius.m}",
+      "value": "{border-radius.xl}",
       "type": "borderRadius"
     }
   }
