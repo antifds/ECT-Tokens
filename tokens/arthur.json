@@ -5,6 +5,10 @@
         "value": "{palette.purple50}",
         "type": "color"
       },
+      "primary2": {
+        "value": "{palette.purple50}",
+        "type": "color"
+      },
       "on-primary": {
         "value": "{palette.secondary05}",
         "type": "color"
