@@ -2,7 +2,7 @@
   "color": {
     "primary": {
       "primary": {
-        "value": "{palette.primary50}",
+        "value": "{palette.magenta50}",
         "type": "color"
       },
       "on-primary": {
@@ -10,11 +10,11 @@
         "type": "color"
       },
       "primary-container": {
-        "value": "{palette.primary05}",
+        "value": "{palette.magenta05}",
         "type": "color"
       },
       "on-primary-container": {
-        "value": "{palette.primary70}",
+        "value": "{palette.magenta60}",
         "type": "color"
       },
       "primary-hover": {
@@ -36,4 +36,3 @@
     }
   }
 }
-    
