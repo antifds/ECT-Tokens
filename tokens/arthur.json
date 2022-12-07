@@ -33,6 +33,30 @@
         "value": "rgba({color.primary.primary},0.1)",
         "type": "color"
       }
+<<<<<<< HEAD
     }
   }
 }
+=======
+    },
+    "secondary": {
+      "secondary": {
+        "value": "{palette.orange50}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{palette.orange05}",
+        "type": "color"
+      },
+      "secondary-container": {
+        "value": "{palette.orange10}",
+        "type": "color"
+      },
+      "on-secondary-container": {
+        "value": "{palette.orange80}",
+        "type": "color"
+      }
+    },
+  }
+}
+>>>>>>> parent of 70f4dee (Test)

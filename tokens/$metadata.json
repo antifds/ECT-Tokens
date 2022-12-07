@@ -1,5 +1,8 @@
 {
   "tokenSetOrder": [
-    "global"
+    "comp",
+    "ref",
+    "sys",
+    "arthur"
   ]
 }
