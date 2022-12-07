@@ -2,7 +2,7 @@
   "color": {
     "primary": {
       "primary": {
-        "value": "{palette.magenta50}",
+        "value": "{palette.purple50}",
         "type": "color"
       },
       "on-primary": {
@@ -10,15 +10,15 @@
         "type": "color"
       },
       "primary-container": {
-        "value": "{palette.magenta05}",
+        "value": "{palette.purple05}",
         "type": "color"
       },
       "on-primary-container": {
-        "value": "{palette.magenta60}",
+        "value": "{palette.purple60}",
         "type": "color"
       },
       "primary-hover": {
-        "value": "{palette.primary60}",
+        "value": "{palette.purple60}",
         "type": "color"
       },
       "primary-hover-variant": {
