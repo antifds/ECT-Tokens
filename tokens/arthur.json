@@ -36,19 +36,19 @@
     },
     "secondary": {
       "secondary": {
-        "value": "{palette.orange50}",
+        "value": "{palette.teal50}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{palette.orange05}",
+        "value": "{palette.teal05}",
         "type": "color"
       },
       "secondary-container": {
-        "value": "{palette.orange10}",
+        "value": "{palette.teal10}",
         "type": "color"
       },
       "on-secondary-container": {
-        "value": "{palette.orange80}",
+        "value": "{palette.teal80}",
         "type": "color"
       }
     }
