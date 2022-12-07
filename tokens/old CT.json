@@ -51,37 +51,11 @@
         "value": "{palette.teal80}",
         "type": "color"
       }
-    },
-    "background": {
-      "background": {
-        "value": "{palette.secondary05}",
-        "type": "color"
-      },
-      "surface": {
-        "value": "{palette.white}",
-        "type": "color"
-      },
-      "action-disabled": {
-        "value": "{palette.neutral10}",
-        "type": "color"
-      },
-      "label1": {
-        "value": "{color.tertiary.tertiary-container}",
-        "type": "color"
-      },
-      "label2": {
-        "value": "{color.primary.primary-container}",
-        "type": "color"
-      },
-      "table-header": {
-        "value": "{color.secondary.secondary-container}",
-        "type": "color"
-      }
     }
   },
   "border-radius": {
     "button": {
-      "value": "none",
+      "value": "0",
       "type": "borderRadius"
     },
     "icon": {
@@ -89,7 +63,7 @@
       "type": "borderRadius"
     },
     "card": {
-      "value": "{border-radius.xl}",
+      "value": "0",
       "type": "borderRadius"
     }
   }
