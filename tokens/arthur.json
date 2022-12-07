@@ -26,7 +26,7 @@
         "type": "color"
       },
       "primary-pressed": {
-        "value": "{palette.magenta70}",
+        "value": "{palette.purple70}",
         "type": "color"
       },
       "primary-pressed-variant": {
