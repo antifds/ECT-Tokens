@@ -1,0 +1,32 @@
+{
+    "border-radius": {
+        "button": {
+          "value": "{border-radius.m}",
+          "type": "borderRadius"
+        },
+        "icon": {
+          "value": "{border-radius.m}",
+          "type": "borderRadius"
+        },
+        "card": {
+          "value": "{border-radius.l}",
+          "type": "borderRadius"
+        },
+        "data-viz": {
+          "bar": {
+            "value": "{border-radius.m} {border-radius.m} 0 0",
+            "type": "borderRadius"
+          }
+        },
+        "tabs": {
+          "active-tab": {
+            "value": "{border-radius.m} {border-radius.m} 0 0",
+            "type": "borderRadius"
+          }
+        },
+        "table": {
+          "value": "{border-radius.m}",
+          "type": "borderRadius"
+        }
+      }
+}

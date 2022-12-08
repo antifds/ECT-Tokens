@@ -1,0 +1,42 @@
+{
+    "spacing": {
+        "buttons": {
+          "gap-s": {
+            "value": "{spacing.xs}",
+            "type": "spacing"
+          },
+          "gap-m": {
+            "value": "{spacing.s}",
+            "type": "spacing"
+          },
+          "padding-xs": {
+            "value": "{spacing.xs} {spacing.s}",
+            "type": "spacing"
+          },
+          "padding-m": {
+            "value": "{spacing.s} {spacing.l}",
+            "type": "spacing"
+          },
+          "icon": {
+            "padding": {
+              "value": "{spacing.xxs}",
+              "type": "spacing"
+            }
+          }
+        },
+        "card": {
+          "header": {
+            "padding": {
+              "value": "{spacing.l} {spacing.xl}",
+              "type": "spacing"
+            }
+          },
+          "content": {
+            "padding": {
+              "value": "{spacing.xl}",
+              "type": "spacing"
+            }
+          }
+        }
+      }
+}
