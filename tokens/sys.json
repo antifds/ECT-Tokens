@@ -30,7 +30,7 @@
         "type": "color"
       },
       "primary-pressed-variant": {
-        "value": "rgba({color.primary.primary},0.1)",
+        "value": "rgba({color.primary.primary},0.07)",
         "type": "color"
       }
     },
@@ -79,10 +79,6 @@
         "value": "{palette.white}",
         "type": "color"
       },
-      "action-disabled": {
-        "value": "{palette.neutral10}",
-        "type": "color"
-      },
       "label1": {
         "value": "{color.tertiary.tertiary-container}",
         "type": "color"
@@ -93,6 +89,10 @@
       },
       "table-header": {
         "value": "{color.secondary.secondary-container}",
+        "type": "color"
+      },
+      "action-disabled": {
+        "value": "{palette.neutral10}",
         "type": "color"
       }
     },
@@ -113,12 +113,24 @@
         "value": "{color.secondary.secondary}",
         "type": "color"
       },
+      "tertiary-dark": {
+        "value": "{color.secondary.on-secondary-container}",
+        "type": "color"
+      },
       "action-disabled": {
         "value": "{palette.neutral60}",
         "type": "color"
       },
       "action-on-disabled-bg": {
         "value": "{palette.neutral70}",
+        "type": "color"
+      },
+      "body-link": {
+        "value": "{color.secondary.secondary}",
+        "type": "color"
+      },
+      "body-link-hover": {
+        "value": "{color.primary.primary}",
         "type": "color"
       }
     },
@@ -127,15 +139,19 @@
         "value": "{palette.secondary20}",
         "type": "color"
       },
-      "variant": {
+      "secondary": {
         "value": "{color.secondary.secondary}",
         "type": "color"
       },
-      "variant-2": {
+      "secondary-dark": {
+        "value": "{color.secondary.on-secondary-container}",
+        "type": "color"
+      },
+      "selected": {
         "value": "{color.primary.primary}",
         "type": "color"
       },
-      "variant-3": {
+      "variant": {
         "value": "{palette.neutral20}",
         "type": "color"
       }
@@ -145,7 +161,7 @@
         "value": "{palette.success70}",
         "type": "color"
       },
-      "success-variant": {
+      "success-weak": {
         "value": "{palette.success50}",
         "type": "color"
       },
@@ -161,7 +177,7 @@
         "value": "{palette.ahead70}",
         "type": "color"
       },
-      "ahead-variant": {
+      "ahead-weak": {
         "value": "{palette.ahead50}",
         "type": "color"
       },
@@ -177,7 +193,7 @@
         "value": "{palette.warning70}",
         "type": "color"
       },
-      "warning-variant": {
+      "warning-weak": {
         "value": "{palette.warning50}",
         "type": "color"
       },
@@ -189,27 +205,15 @@
         "value": "{palette.warning80}",
         "type": "color"
       },
-      "behind": {
+      "critical": {
         "value": "{palette.red60}",
         "type": "color"
       },
-      "behind-tint": {
+      "critical-tint": {
         "value": "{palette.red05}",
         "type": "color"
       },
-      "on-behind-tint": {
-        "value": "{palette.red80}",
-        "type": "color"
-      },
-      "error": {
-        "value": "{palette.red60}",
-        "type": "color"
-      },
-      "error-tint": {
-        "value": "{palette.red05}",
-        "type": "color"
-      },
-      "on-error-tint": {
+      "on-critical-tint": {
         "value": "{palette.red80}",
         "type": "color"
       }
@@ -504,12 +508,18 @@
         "type": "spacing"
       },
       "padding-xs": {
-        "value": "{spacing.xxs} {spacing.xs}",
+        "value": "{spacing.xs} {spacing.s}",
         "type": "spacing"
       },
       "padding-m": {
         "value": "{spacing.s} {spacing.l}",
         "type": "spacing"
+      },
+      "icon": {
+        "padding": {
+          "value": "{spacing.xxs}",
+          "type": "spacing"
+        }
       }
     },
     "card": {
@@ -685,7 +695,7 @@
       "type": "borderRadius"
     },
     "card": {
-      "value": "{border-radius.m}",
+      "value": "{border-radius.l}",
       "type": "borderRadius"
     },
     "data-viz": {
@@ -699,6 +709,10 @@
         "value": "{border-radius.m} {border-radius.m} 0 0",
         "type": "borderRadius"
       }
+    },
+    "table": {
+      "value": "{border-radius.m}",
+      "type": "borderRadius"
     }
   },
   "elevation": {

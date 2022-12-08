@@ -63,7 +63,7 @@
       "type": "borderRadius"
     },
     "card": {
-      "value": "0",
+      "value": "{border-radius.xl}",
       "type": "borderRadius"
     }
   }
