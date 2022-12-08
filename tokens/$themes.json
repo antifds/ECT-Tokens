@@ -40,14 +40,8 @@
       "color.content.action-on-disabled-bg": "S:1fa14e8e07f3bb29d1e72cf2c1ef3a79b9d51d5f,",
       "color.outline.primary": "S:6a56c39750816181ac79c61c242addd70e6064df,",
       "color.alerts.success": "S:93e8552f7c47cb1a9d5a042795d124bd5e701a42,",
-      "color.alerts.success-tint": "S:7111172fac80b5e504bc9e048c6a1dec86c49510,",
-      "color.alerts.on-success-tint": "S:3ef31c6c965eb848f68e01bf5030b88b60bb1c06,",
       "color.alerts.ahead": "S:df56b65e4d01e30885333df5faecf6a66d6a5a74,",
-      "color.alerts.ahead-tint": "S:fbd5a79610ccc4363654e431ce78ceb10ef1436d,",
-      "color.alerts.on-ahead-tint": "S:4158e2daacac2614b40c079853a36e82845f811e,",
       "color.alerts.warning": "S:c9de832b8bf4d7ce661e392aa612babc676ec732,",
-      "color.alerts.warning-tint": "S:376fb2fa8fa45e1abc747998589b5c68029fffea,",
-      "color.alerts.on-warning-tint": "S:398f180d4f3c1d459a98db56621ab2c234e21a02,",
       "color.data-viz.teal": "S:c45c64db0f96968f28dec36977414447f37f7b08,",
       "color.data-viz.teal-tint": "S:b0fbf7dbc25fc1b78cbc39676d7489165271ec42,",
       "color.data-viz.on-teal-tint": "S:63858b99a74bebe7ccb9e46df20f441296ed76e9,",
@@ -62,14 +56,16 @@
       "color.data-viz.on-purple-tint": "S:7239622aab0d263b401590bbad2ccefcd49aea02,",
       "color.content.body-link": "S:48ae36d2166ff1ca13d05ff00dbb48cadaf5e9cd,",
       "color.alerts.critical": "S:70621cd03abb80cd71af80ced70677a378d1fd60,",
-      "color.alerts.critical-tint": "S:79645f50752b82e1455b3e34852641da0b70d13c,",
       "color.alerts.on-critical-tint": "S:91a878d5e688e2047ba33e5afe9f76275cb2f8a5,",
       "color.alerts.success-weak": "S:9e17e91fc226cd87257b8fa48d5d43f5e9b01a44,",
       "color.alerts.ahead-weak": "S:0cbdd884c1534aa2795310c327e99bb421df8319,",
       "color.alerts.warning-weak": "S:102411e255b9271f6a3a7bb57ddc733affd5570d,",
       "color.outline.secondary": "S:20bea2db8384187327f9dad40b7f64ac720e38e2,",
       "color.outline.selected": "S:94338c7a0946237624051d931aa4cfdd4f6e732a,",
-      "color.outline.variant": "S:2cf3099625a3d1a704b80c731e30db4364f32ef8,"
+      "color.outline.variant": "S:2cf3099625a3d1a704b80c731e30db4364f32ef8,",
+      "color.alerts.ahead-bg": "S:fbd5a79610ccc4363654e431ce78ceb10ef1436d,",
+      "color.alerts.warning-bg": "S:376fb2fa8fa45e1abc747998589b5c68029fffea,",
+      "color.alerts.critical-bg": "S:79645f50752b82e1455b3e34852641da0b70d13c,"
     }
   },
   {

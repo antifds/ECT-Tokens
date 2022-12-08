@@ -52,7 +52,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{color.content.action-on-disabled-bg}",
+            "value": "{color.text.action-on-disabled-bg}",
             "type": "color"
           },
           "text-style": {
@@ -148,7 +148,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{color.content.action-on-disabled-bg}",
+            "value": "{color.text.action-on-disabled-bg}",
             "type": "color"
           },
           "text-style": {
@@ -192,7 +192,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{color.content.action-disabled}",
+            "value": "{color.text.action-disabled}",
             "type": "color"
           },
           "text-style": {
@@ -262,7 +262,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{color.content.action-disabled}",
+            "value": "{color.text.action-disabled}",
             "type": "color"
           },
           "text-style": {
@@ -328,7 +328,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{color.content.action-disabled}",
+            "value": "{color.text.action-disabled}",
             "type": "color"
           }
         },
