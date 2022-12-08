@@ -104,12 +104,12 @@
           "value": "{color.alerts.critical-bg}",
           "type": "color"
         },
-        "success": {
-          "value": "{color.alerts.success-bg}",
-          "type": "color"
-        },
         "success-tint": {
           "value": "{color.alerts.success-tint}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.alerts.success-bg}",
           "type": "color"
         },
         "ahead": {
