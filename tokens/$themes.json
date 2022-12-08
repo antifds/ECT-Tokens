@@ -1,13 +1,41 @@
 [
   {
+    "id": "b69edf58017e15347aa4549af1d394a372b66892",
+    "name": "OLD CT",
+    "selectedTokenSets": {
+      "comp": "source",
+      "ref": "source",
+      "arthur": "disabled",
+      "old CT": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
+    "selectedTokenSets": {
+      "comp": "source",
+      "ref": "source",
+      "arthur": "enabled",
+      "old CT": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
       "comp": "source",
       "ref": "source",
-      "sys": "enabled",
       "arthur": "disabled",
-      "old CT": "disabled"
+      "old CT": "disabled",
+      "sys/borderRadius": "enabled",
+      "sys/color": "enabled",
+      "sys/elevation": "enabled",
+      "sys/fontFamilies": "enabled",
+      "sys/opacity": "enabled",
+      "sys/spacing": "enabled",
+      "sys/typography": "enabled"
     },
     "$figmaStyleReferences": {
       "color.primary.primary": "S:de65f44bf0ab3f6847d0b4ad42978e5fa4c33625,",
@@ -67,29 +95,5 @@
       "color.alerts.warning-bg": "S:376fb2fa8fa45e1abc747998589b5c68029fffea,",
       "color.alerts.critical-bg": "S:79645f50752b82e1455b3e34852641da0b70d13c,"
     }
-  },
-  {
-    "id": "b69edf58017e15347aa4549af1d394a372b66892",
-    "name": "OLD CT",
-    "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
-      "sys": "enabled",
-      "arthur": "disabled",
-      "old CT": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
-    "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
-      "sys": "enabled",
-      "arthur": "enabled",
-      "old CT": "disabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
