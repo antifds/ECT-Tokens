@@ -667,7 +667,6 @@
           "default": {
             "value": {
               "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -763,7 +762,6 @@
           "default": {
             "value": {
               "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },

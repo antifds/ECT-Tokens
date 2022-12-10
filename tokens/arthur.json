@@ -52,6 +52,18 @@
           "value": "{core.palette.teal80}",
           "type": "color"
         }
+      },
+      "outline": {
+        "primary": {
+          "value": "{core.palette.secondary50}",
+          "type": "color"
+        }
+      }
+    },
+    "border-radius": {
+      "primary": {
+        "value": "{core.border-radius.xl}",
+        "type": "borderRadius"
       }
     }
   },
