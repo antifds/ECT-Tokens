@@ -1,8 +1,10 @@
 {
-  "elevation": {
-    "button-interactive": {
-      "value": "{elevation.level1}",
-      "type": "boxShadow"
+  "semantic": {
+    "elevation": {
+      "button-interactive": {
+        "value": "{core.elevation.level1}",
+        "type": "boxShadow"
+      }
     }
   }
 }
