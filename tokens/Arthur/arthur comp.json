@@ -1,76 +1,76 @@
 {
-    "comp2": {
-        "button": {
-        "primary": {
-            "bg": {
-            "default": {
-                "value": {
-                "spacing": "{core.spacing.s} {core.spacing.l}",
-                "fill": "{semantic.color.primary.primary}",
-                "borderRadius": "{semantic.border-radius.primary}",
-                "itemSpacing": "{semantic.spacing.gap.gap-xs}"
-                },
-                "type": "composition"
+  "comp2": {
+    "button": {
+      "primary": {
+        "bg": {
+          "default": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.primary.primary}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
-            "hover": {
-                "value": {
-                "spacing": "{core.spacing.s} {core.spacing.l}",
-                "fill": "{core.palette.primary60}",
-                "borderRadius": "{semantic.border-radius.primary}",
-                "itemSpacing": "{semantic.spacing.gap.gap-xs}"
-                },
-                "type": "composition"
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.primary60}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
-            "pressed": {
-                "value": {
-                "spacing": "{core.spacing.s} {core.spacing.l}",
-                "fill": "{core.palette.primary70}",
-                "borderRadius": "{semantic.border-radius.primary}",
-                "itemSpacing": "{semantic.spacing.gap.gap-xs}"
-                },
-                "type": "composition"
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.primary70}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
-            "disabled": {
-                "value": {
-                "spacing": "{core.spacing.s} {core.spacing.l}",
-                "fill": "{semantic.color.background.action-disabled}",
-                "borderRadius": "{semantic.border-radius.primary}",
-                "itemSpacing": "{semantic.spacing.gap.gap-xs}"
-                },
-                "type": "composition"
-            }
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.background.action-disabled}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
-            "text": {
-            "default": {
-                "value": {
-                "typography": "{semantic.typography.button.medium}",
-                "fill": "{semantic.color.text.white}"
-                },
-                "type": "composition"
+            "type": "composition"
+          }
+        },
+        "text": {
+          "default": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
             },
-            "hover": {
-                "value": {
-                "typography": "{semantic.typography.button.medium}",
-                "fill": "{semantic.color.text.white}"
-                },
-                "type": "composition"
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
             },
-            "pressed": {
-                "value": {
-                "typography": "{semantic.typography.button.medium}",
-                "fill": "{semantic.color.text.white}"
-                },
-                "type": "composition"
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
             },
-            "disabled": {
-                "value": {
-                "typography": "{semantic.typography.button.medium}",
-                "fill": "{semantic.color.text.action-on-disabled-bg}"
-                },
-                "type": "composition"
-            }
-            }
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.action-on-disabled-bg}"
+            },
+            "type": "composition"
+          }
         }
-        }
+      }
     }
+  }
 }

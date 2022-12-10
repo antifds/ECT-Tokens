@@ -1,28 +1,8 @@
 [
   {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
-    "selectedTokenSets": {
-      "arthur": "enabled",
-      "old CT": "disabled",
-      "01. Core": "source",
-      "ECT/ECT comp": "enabled",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
-      "arthur": "disabled",
-      "old CT": "disabled",
       "01. Core": "source",
       "ECT/ECT comp": "source",
       "ECT/ECT semantic/borderRadius": "enabled",
@@ -145,15 +125,14 @@
       "typography.body.medium": "S:f25932746aa5b77cebe8c9b72caf8d70731011df,",
       "typography.body.small": "S:486e1603ca31784a8c10d509cb21adbc7017bc99,",
       "typography.button.medium": "S:636839a88cba402cab162915eb34f2d0193f4db3,",
-      "typography.button.small": "S:71eaddd1a6fd4501177fd8a6969fcf72e2bdb5f6,"
+      "typography.button.small": "S:71eaddd1a6fd4501177fd8a6969fcf72e2bdb5f6,",
+      "semantic.elevation.button-interactive": "S:0b60cf96db31be9af794b12e95726cff7d6ae426,"
     }
   },
   {
     "id": "b69edf58017e15347aa4549af1d394a372b66892",
     "name": "OLD CT",
     "selectedTokenSets": {
-      "arthur": "disabled",
-      "old CT": "enabled",
       "01. Core": "source",
       "ECT/ECT comp": "source",
       "ECT/ECT semantic/borderRadius": "enabled",
@@ -162,7 +141,26 @@
       "ECT/ECT semantic/fontFamilies": "enabled",
       "ECT/ECT semantic/opacity": "enabled",
       "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled"
+      "ECT/ECT semantic/typography": "enabled",
+      "Old CT/Old CT semantic": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Arthur/arthur comp": "enabled",
+      "Arthur/arthur semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }
