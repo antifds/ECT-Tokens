@@ -1,12 +1,19 @@
 [
   {
-    "id": "b69edf58017e15347aa4549af1d394a372b66892",
-    "name": "OLD CT",
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
     "selectedTokenSets": {
-      "arthur": "disabled",
-      "old CT": "enabled",
-      "ECT comp": "source",
-      "01. Core": "source"
+      "arthur": "enabled",
+      "old CT": "disabled",
+      "01. Core": "source",
+      "ECT/ECT comp": "enabled",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,15 +23,15 @@
     "selectedTokenSets": {
       "arthur": "disabled",
       "old CT": "disabled",
-      "sys/borderRadius": "enabled",
-      "sys/color": "enabled",
-      "sys/elevation": "enabled",
-      "sys/fontFamilies": "enabled",
-      "sys/opacity": "enabled",
-      "sys/spacing": "enabled",
-      "sys/typography": "enabled",
-      "ECT comp": "source",
-      "01. Core": "source"
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled"
     },
     "$figmaStyleReferences": {
       "color.primary.primary": "S:f17a41146560aafe0d3707fd3f5d339e09d3bb01,",
@@ -142,20 +149,20 @@
     }
   },
   {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
+    "id": "b69edf58017e15347aa4549af1d394a372b66892",
+    "name": "OLD CT",
     "selectedTokenSets": {
-      "arthur": "enabled",
-      "old CT": "disabled",
-      "sys/color": "enabled",
-      "sys/typography": "enabled",
-      "sys/borderRadius": "enabled",
-      "sys/elevation": "enabled",
-      "sys/fontFamilies": "enabled",
-      "sys/opacity": "enabled",
-      "sys/spacing": "enabled",
-      "ECT comp": "source",
-      "01. Core": "source"
+      "arthur": "disabled",
+      "old CT": "enabled",
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled"
     },
     "$figmaStyleReferences": {}
   }
