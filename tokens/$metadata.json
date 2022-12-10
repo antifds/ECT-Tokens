@@ -1,14 +1,14 @@
 {
   "tokenSetOrder": [
     "01. Core",
-    "sys/color",
-    "sys/typography",
-    "sys/borderRadius",
-    "sys/elevation",
-    "sys/fontFamilies",
-    "sys/opacity",
-    "sys/spacing",
-    "ECT comp",
+    "ECT/ECT comp",
+    "ECT/ECT semantic/borderRadius",
+    "ECT/ECT semantic/color",
+    "ECT/ECT semantic/elevation",
+    "ECT/ECT semantic/fontFamilies",
+    "ECT/ECT semantic/opacity",
+    "ECT/ECT semantic/spacing",
+    "ECT/ECT semantic/typography",
     "arthur",
     "old CT"
   ]
