@@ -364,5 +364,30 @@
         }
       }
     }
+  },
+  "comp": {
+    "button": {
+      "primary": {
+        "bg": {
+          "default": {
+            "value": {
+              "spacing": "{spacing.s} {spacing.l}",
+              "fill": "{color.primary.primary}",
+              "borderRadius": "{border-radius.primary}",
+              "itemSpacing": "{spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          }
+        },
+        "text": {
+          "default": {
+            "value": {
+              "typography": "{typography.button.medium}"
+            },
+            "type": "composition"
+          }
+        }
+      }
+    }
   }
 }

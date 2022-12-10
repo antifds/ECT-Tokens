@@ -501,6 +501,10 @@
     "xl": {
       "value": "24",
       "type": "spacing"
+    },
+    "xxl": {
+      "value": "32",
+      "type": "spacing"
     }
   },
   "border-radius": {

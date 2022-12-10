@@ -2,13 +2,13 @@
   "tokenSetOrder": [
     "comp",
     "ref",
-    "sys/borderRadius",
     "sys/color",
+    "sys/typography",
+    "sys/borderRadius",
     "sys/elevation",
     "sys/fontFamilies",
     "sys/opacity",
     "sys/spacing",
-    "sys/typography",
     "arthur",
     "old CT"
   ]

@@ -11,17 +11,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
-    "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
-      "arthur": "enabled",
-      "old CT": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
@@ -134,7 +123,40 @@
       "color.icons.ahead": "S:d21ca545a0de69e9d58981e5908cee58d74947ac,",
       "color.icons.warning": "S:f95d1d857a681504212a51c84956e338e13d1ee8,",
       "color.icons.disabled": "S:1c3f1c2fb9b7ccac083ded173580f201adfdb9cd,",
-      "color.icons.on-disabled-bg": "S:e492892cf3ad770ac24a89e2bff0ab19af3af4b3,"
+      "color.icons.on-disabled-bg": "S:e492892cf3ad770ac24a89e2bff0ab19af3af4b3,",
+      "typography.headline.large": "S:0087369bc60bd3d18bb436eaf3c3b5059110bc2f,",
+      "typography.headline.medium": "S:e75c55c16e3b5a6d63b9de0b9a818e5bf290a65c,",
+      "typography.headline.small": "S:ed1e1af49470f2861f2717d9ba781978eb4eb9ae,",
+      "typography.title.large": "S:9fa221c4c4ae6ea76d246468cf1056961fffd3c9,",
+      "typography.title.medium": "S:4911b288a695a0bc252050a3077ef3e3733ad4a4,",
+      "typography.title.medium-underline": "S:4928c2fcdb6898c4687d57470e6f10e9433c56c5,",
+      "typography.title.small": "S:619c4088bbcd99f94ced98f5bc433d0fcfa8ce19,",
+      "typography.label.large": "S:e0a1f1e5e8e722cd25f9fed429b97a85b0ab3ff9,",
+      "typography.label.medium": "S:d2919d757952715997c93ac9c06930af5dd87148,",
+      "typography.label.small": "S:1b0dba8372840ad1f40b6805f2277aba94b12a2c,",
+      "typography.body.large": "S:ba9b5649218d69c683e0d93c989e2223df370c19,",
+      "typography.body.medium": "S:f25932746aa5b77cebe8c9b72caf8d70731011df,",
+      "typography.body.small": "S:486e1603ca31784a8c10d509cb21adbc7017bc99,",
+      "typography.button.medium": "S:636839a88cba402cab162915eb34f2d0193f4db3,",
+      "typography.button.small": "S:71eaddd1a6fd4501177fd8a6969fcf72e2bdb5f6,"
     }
+  },
+  {
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
+    "selectedTokenSets": {
+      "comp": "source",
+      "ref": "source",
+      "arthur": "enabled",
+      "old CT": "disabled",
+      "sys/color": "enabled",
+      "sys/typography": "enabled",
+      "sys/borderRadius": "enabled",
+      "sys/elevation": "enabled",
+      "sys/fontFamilies": "enabled",
+      "sys/opacity": "enabled",
+      "sys/spacing": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

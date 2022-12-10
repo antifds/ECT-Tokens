@@ -37,6 +37,58 @@
           "type": "spacing"
         }
       }
+    },
+    "gap": {
+      "gap-xs": {
+        "value": "{spacing.xs}",
+        "type": "spacing"
+      },
+      "gap-s": {
+        "value": "{spacing.s}",
+        "type": "spacing"
+      },
+      "gap-m": {
+        "value": "{spacing.l}",
+        "type": "spacing"
+      },
+      "gap-l": {
+        "value": "{spacing.xl}",
+        "type": "spacing"
+      }
+    },
+    "padding": {
+      "round-xs": {
+        "value": "{spacing.xs} {spacing.s}",
+        "type": "spacing"
+      },
+      "round-m": {
+        "value": "{spacing.s} {spacing.l}",
+        "type": "spacing"
+      },
+      "simple-xs": {
+        "value": "{spacing.xs}",
+        "type": "spacing"
+      },
+      "simple-s": {
+        "value": "{spacing.s}",
+        "type": "spacing"
+      },
+      "simple-m": {
+        "value": "{spacing.m}",
+        "type": "spacing"
+      },
+      "simple-l": {
+        "value": "{spacing.l}",
+        "type": "spacing"
+      },
+      "simple-xl": {
+        "value": "{spacing.xl}",
+        "type": "spacing"
+      },
+      "simple-xxl": {
+        "value": "{spacing.xxl}",
+        "type": "spacing"
+      }
     }
   }
 }
