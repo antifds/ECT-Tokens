@@ -383,6 +383,10 @@
         "on-disabled-bg": {
           "value": "{core.palette.neutral70}",
           "type": "color"
+        },
+        "white": {
+          "value": "{core.palette.white}",
+          "type": "color"
         }
       }
     }
