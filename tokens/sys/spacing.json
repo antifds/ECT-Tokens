@@ -88,6 +88,10 @@
       "simple-xxl": {
         "value": "{spacing.xxl}",
         "type": "spacing"
+      },
+      "test": {
+        "value": "3",
+        "type": "spacing"
       }
     }
   }
