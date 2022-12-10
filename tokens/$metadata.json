@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
-    "comp",
-    "ref",
+    "01. Core",
     "sys/color",
     "sys/typography",
     "sys/borderRadius",
@@ -9,6 +8,7 @@
     "sys/fontFamilies",
     "sys/opacity",
     "sys/spacing",
+    "ECT comp",
     "arthur",
     "old CT"
   ]

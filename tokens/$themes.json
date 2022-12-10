@@ -3,10 +3,10 @@
     "id": "b69edf58017e15347aa4549af1d394a372b66892",
     "name": "OLD CT",
     "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
       "arthur": "disabled",
-      "old CT": "enabled"
+      "old CT": "enabled",
+      "ECT comp": "source",
+      "01. Core": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,8 +14,6 @@
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
       "arthur": "disabled",
       "old CT": "disabled",
       "sys/borderRadius": "enabled",
@@ -24,7 +22,9 @@
       "sys/fontFamilies": "enabled",
       "sys/opacity": "enabled",
       "sys/spacing": "enabled",
-      "sys/typography": "enabled"
+      "sys/typography": "enabled",
+      "ECT comp": "source",
+      "01. Core": "source"
     },
     "$figmaStyleReferences": {
       "color.primary.primary": "S:f17a41146560aafe0d3707fd3f5d339e09d3bb01,",
@@ -145,8 +145,6 @@
     "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
     "name": "3rd Theme",
     "selectedTokenSets": {
-      "comp": "source",
-      "ref": "source",
       "arthur": "enabled",
       "old CT": "disabled",
       "sys/color": "enabled",
@@ -155,7 +153,9 @@
       "sys/elevation": "enabled",
       "sys/fontFamilies": "enabled",
       "sys/opacity": "enabled",
-      "sys/spacing": "enabled"
+      "sys/spacing": "enabled",
+      "ECT comp": "source",
+      "01. Core": "source"
     },
     "$figmaStyleReferences": {}
   }
