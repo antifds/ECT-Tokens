@@ -506,6 +506,10 @@
       "xxl": {
         "value": "32",
         "type": "spacing"
+      },
+      "xxxl": {
+        "value": "40",
+        "type": "spacing"
       }
     },
     "border-radius": {

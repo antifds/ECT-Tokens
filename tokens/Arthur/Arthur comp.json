@@ -75,7 +75,7 @@
         "bg": {
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{core.palette.purple10}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
@@ -112,7 +112,7 @@
               "default": {
                 "value": {
                   "fill": "rgba({semantic.color.primary.primary},0.05)",
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.xl}",
                   "border": "{semantic.color.primary.on-primary-container}",
                   "borderWidth": "1"
@@ -134,7 +134,7 @@
             "bg": {
               "default": {
                 "value": {
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.xl}"
                 },
                 "type": "composition"
@@ -142,7 +142,7 @@
               "hover": {
                 "value": {
                   "fill": "rgba({semantic.color.primary.primary},0.05)",
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.xl}",
                   "itemSpacing": "{semantic.spacing.gap.gap-xs}"
                 },
@@ -166,6 +166,83 @@
             "itemSpacing": "0",
             "borderRadius": "{semantic.border-radius.xl}",
             "borderWidth": "1px"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "navigation2": {
+      "tabs": {
+        "tab-item": {
+          "active": {
+            "bg": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary-container}",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12",
+                  "border": "{semantic.color.primary.on-primary-container}",
+                  "borderWidth": "1"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.on-primary-container}",
+                  "typography": "{semantic.typography.button.medium}"
+                },
+                "type": "composition"
+              }
+            }
+          },
+          "inactive": {
+            "bg": {
+              "default": {
+                "value": {
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12"
+                },
+                "type": "composition"
+              },
+              "hover": {
+                "value": {
+                  "fill": "rgba({semantic.color.primary.primary},0.05)",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12",
+                  "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary}",
+                  "typography": "{semantic.typography.body.large}"
+                },
+                "type": "composition"
+              }
+            }
+          }
+        },
+        "component": {
+          "value": {
+            "border": "{semantic.color.outline.variant}",
+            "itemSpacing": "0",
+            "borderRadius": "12",
+            "borderWidth": "1px"
+          },
+          "type": "composition"
+        },
+        "component-bg": {
+          "value": {
+            "spacing": "{semantic.padding.simple-m}",
+            "fill": "{semantic.color.background.surface}",
+            "border": "{semantic.color.outline.variant}",
+            "borderWidth": "1px",
+            "borderRadius": "{semantic.border-radius.primary}"
           },
           "type": "composition"
         }

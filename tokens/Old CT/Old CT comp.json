@@ -75,7 +75,7 @@
         "bg": {
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{core.palette.secondary10}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",

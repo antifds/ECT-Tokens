@@ -1,32 +1,5 @@
 [
   {
-    "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
-    "name": "ECT",
-    "selectedTokenSets": {
-      "01. Core": "source",
-      "ECT/ECT comp": "source",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled",
-      "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled",
-      "Old CT/Old CT comp": "disabled"
-    },
-    "$figmaStyleReferences": {
-      "color.content.white": "S:84e7e3732fabfaf639c68224a9aef66fa82b2e7f,",
-      "color.content.primary": "S:0e55596ea57534cf5ff34f7d0a205ad07f11ec04,",
-      "color.content.secondary": "S:f059f50c4fc4c1500174b9e2e2e057ea1b66acbd,",
-      "color.content.tertiary": "S:1dcdd914c1c7c22eb4987864d2c311028e85ad9e,",
-      "color.content.action-disabled": "S:b87afdd073ba9d3e9b22e2b3f494503d70c0e766,",
-      "color.content.action-on-disabled-bg": "S:1fa14e8e07f3bb29d1e72cf2c1ef3a79b9d51d5f,",
-      "color.content.body-link": "S:48ae36d2166ff1ca13d05ff00dbb48cadaf5e9cd,"
-    }
-  },
-  {
     "id": "b69edf58017e15347aa4549af1d394a372b66892",
     "name": "OLD CT",
     "selectedTokenSets": {
@@ -176,6 +149,33 @@
       "semantic.typography.button.medium": "S:9b9331b48ea08f681ef8fd5d6fbffd6ab74bacd5,",
       "semantic.typography.button.small": "S:9215ae487bb19526127e26433ed0f10823507928,",
       "semantic.elevation.button-interactive": "S:2c383a5ca55cfe9821c04099871a7a50947884c1,"
+    }
+  },
+  {
+    "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
+    "name": "ECT",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Arthur/Arthur comp": "disabled",
+      "Arthur/Arthur semantic": "disabled",
+      "Old CT/Old CT comp": "disabled"
+    },
+    "$figmaStyleReferences": {
+      "color.content.white": "S:84e7e3732fabfaf639c68224a9aef66fa82b2e7f,",
+      "color.content.primary": "S:0e55596ea57534cf5ff34f7d0a205ad07f11ec04,",
+      "color.content.secondary": "S:f059f50c4fc4c1500174b9e2e2e057ea1b66acbd,",
+      "color.content.tertiary": "S:1dcdd914c1c7c22eb4987864d2c311028e85ad9e,",
+      "color.content.action-disabled": "S:b87afdd073ba9d3e9b22e2b3f494503d70c0e766,",
+      "color.content.action-on-disabled-bg": "S:1fa14e8e07f3bb29d1e72cf2c1ef3a79b9d51d5f,",
+      "color.content.body-link": "S:48ae36d2166ff1ca13d05ff00dbb48cadaf5e9cd,"
     }
   }
 ]

@@ -373,7 +373,7 @@
         "bg": {
           "default": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.primary.primary}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -382,7 +382,7 @@
           },
           "hover": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{core.palette.primary60}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -391,7 +391,7 @@
           },
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{core.palette.primary70}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -400,7 +400,7 @@
           },
           "disabled": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.background.action-disabled}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -469,7 +469,7 @@
         "bg": {
           "default": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.primary.primary-container}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
@@ -479,29 +479,29 @@
           },
           "hover": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.primary.primary-container}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
               "border": "{semantic.color.primary.on-primary-container}",
-              "boxShadow": "{core.elevation.level1}"
+              "boxShadow": "{semantic.elevation.level1}"
             },
             "type": "composition"
           },
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{core.palette.primary10}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
               "border": "{semantic.color.primary.on-primary-container}",
-              "boxShadow": "{core.elevation.level1}"
+              "boxShadow": "{semantic.elevation.level1}"
             },
             "type": "composition"
           },
           "disabled": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.background.action-disabled}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -570,7 +570,7 @@
         "bg": {
           "default": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -579,8 +579,8 @@
           },
           "hover": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
-              "fill": "rgba({semantic.color.primary.primary},0.05)",
+              "spacing": "{semantic.padding.round-m}",
+              "fill": "{semantic.color.background.transparency.primary-lighter}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -588,8 +588,8 @@
           },
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
-              "fill": "rgba({semantic.color.primary.primary},0.1)",
+              "spacing": "{semantic.padding.round-m}",
+              "fill": "{semantic.color.background.transparency.primary-light}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -597,7 +597,7 @@
           },
           "disabled": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-m}",
+              "spacing": "{semantic.padding.round-m}",
               "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -666,7 +666,7 @@
         "bg": {
           "default": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
+              "spacing": "{semantic.padding.round-xs}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -674,8 +674,8 @@
           },
           "hover": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "rgba({semantic.color.primary.primary},0.05)",
+              "spacing": "{semantic.padding.round-xs}",
+              "fill": "{semantic.color.background.transparency.primary-lighter}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -683,8 +683,8 @@
           },
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "rgba({semantic.color.primary.primary},0.1)",
+              "spacing": "{semantic.padding.round-xs}",
+              "fill": "{semantic.color.background.transparency.primary-light}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -692,7 +692,7 @@
           },
           "disabled": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
+              "spacing": "{semantic.padding.round-xs}",
               "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -761,7 +761,7 @@
         "bg": {
           "default": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
+              "spacing": "{semantic.padding.round-xs}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -769,8 +769,8 @@
           },
           "hover": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "rgba({semantic.color.primary.primary},0.05)",
+              "spacing": "{semantic.padding.round-xs}",
+              "fill": "{semantic.color.background.transparency.primary-lighter}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -778,8 +778,8 @@
           },
           "pressed": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
-              "fill": "rgba({semantic.color.primary.primary},0.1)",
+              "spacing": "{semantic.padding.round-xs}",
+              "fill": "{semantic.color.background.transparency.primary-light}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -787,7 +787,7 @@
           },
           "disabled": {
             "value": {
-              "spacing": "{semantic.spacing.padding.round-xs}",
+              "spacing": "{semantic.padding.round-xs}",
               "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
@@ -865,7 +865,7 @@
             "value": {
               "spacing": "{core.spacing.xs}",
               "borderRadius": "{semantic.border-radius.primary}",
-              "fill": "rgba({semantic.color.primary.primary},0.05)"
+              "fill": "{semantic.color.background.transparency.primary-lighter}"
             },
             "type": "composition"
           },
@@ -873,7 +873,7 @@
             "value": {
               "spacing": "{core.spacing.xs}",
               "borderRadius": "{semantic.border-radius.primary}",
-              "fill": "rgba({semantic.color.primary.primary},0.1)"
+              "fill": "{semantic.color.background.transparency.primary-light}"
             },
             "type": "composition"
           },
@@ -920,8 +920,8 @@
             "bg": {
               "default": {
                 "value": {
-                  "fill": "{semantic.color.primary.primary}",
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "fill": "rgba({semantic.color.primary.primary},0.05)",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.tabs.active-tab}",
                   "borderWidth": "0"
                 },
@@ -942,7 +942,7 @@
             "bg": {
               "default": {
                 "value": {
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.tabs.active-tab}"
                 },
                 "type": "composition"
@@ -950,7 +950,7 @@
               "hover": {
                 "value": {
                   "fill": "rgba({semantic.color.primary.primary},0.05)",
-                  "spacing": "{semantic.spacing.padding.round-m}",
+                  "spacing": "{semantic.padding.round-m}",
                   "borderRadius": "{semantic.border-radius.tabs.active-tab}",
                   "itemSpacing": "{semantic.spacing.gap.gap-xs}"
                 },
@@ -972,7 +972,90 @@
           "value": {
             "borderWidthBottom": "1px",
             "border": "{semantic.color.primary.primary}",
-            "itemSpacing": "0"
+            "itemSpacing": "0",
+            "borderWidthTop": "0",
+            "borderWidthRight": "0",
+            "borderWidthLeft": "0",
+            "borderRadius": "0"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "navigation2": {
+      "tabs": {
+        "tab-item": {
+          "active": {
+            "bg": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary}",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.tabs.active-tab}",
+                  "borderWidth": "0"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.text.white}",
+                  "typography": "{semantic.typography.button.medium}"
+                },
+                "type": "composition"
+              }
+            }
+          },
+          "inactive": {
+            "bg": {
+              "default": {
+                "value": {
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.tabs.active-tab}"
+                },
+                "type": "composition"
+              },
+              "hover": {
+                "value": {
+                  "fill": "{semantic.color.background.transparency.primary-lighter}",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.tabs.active-tab}",
+                  "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.text.tertiary}",
+                  "typography": "{semantic.typography.body.large}"
+                },
+                "type": "composition"
+              }
+            }
+          }
+        },
+        "component": {
+          "value": {
+            "borderWidthBottom": "0",
+            "itemSpacing": "0",
+            "borderRadius": "0",
+            "borderWidth": "0"
+          },
+          "type": "composition"
+        },
+        "component-bg": {
+          "value": {
+            "spacing": "0px",
+            "fill": "{semantic.color.background.background}",
+            "borderRadius": "0",
+            "borderWidthBottom": "1",
+            "borderWidthTop": "0",
+            "borderWidthRight": "0",
+            "borderWidthLeft": "0",
+            "border": "{semantic.color.primary.primary}"
           },
           "type": "composition"
         }

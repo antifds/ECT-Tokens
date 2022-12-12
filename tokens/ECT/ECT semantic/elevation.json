@@ -4,6 +4,18 @@
       "button-interactive": {
         "value": "{core.elevation.level1}",
         "type": "boxShadow"
+      },
+      "level1": {
+        "value": "{core.elevation.level1}",
+        "type": "boxShadow"
+      },
+      "level2": {
+        "value": "{core.elevation.level2}",
+        "type": "boxShadow"
+      },
+      "level3": {
+        "value": "{core.elevation.level3}",
+        "type": "boxShadow"
       }
     }
   }

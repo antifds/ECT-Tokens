@@ -145,6 +145,24 @@
             "value": "{semantic.color.alerts.warning-bg}",
             "type": "color"
           }
+        },
+        "transparency": {
+          "primary-lighter": {
+            "value": "rgba({semantic.color.primary.primary},0.05)",
+            "type": "color"
+          },
+          "primary-light": {
+            "value": "rgba({semantic.color.primary.primary},0.1)",
+            "type": "color"
+          },
+          "secondary-lighter": {
+            "value": "rgba({semantic.color.secondary.secondary},0.05)",
+            "type": "color"
+          },
+          "secondary-light": {
+            "value": "rgba({semantic.color.secondary.secondary},0.1)",
+            "type": "color"
+          }
         }
       },
       "text": {
