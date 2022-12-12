@@ -13,7 +13,8 @@
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
       "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled"
+      "Arthur/Arthur semantic": "disabled",
+      "Old CT/Old CT comp": "disabled"
     },
     "$figmaStyleReferences": {
       "color.primary.primary": "S:f17a41146560aafe0d3707fd3f5d339e09d3bb01,",
@@ -146,7 +147,8 @@
       "ECT/ECT semantic/typography": "enabled",
       "Old CT/Old CT semantic": "enabled",
       "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled"
+      "Arthur/Arthur semantic": "disabled",
+      "Old CT/Old CT comp": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -164,7 +166,8 @@
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
       "Arthur/Arthur comp": "enabled",
-      "Arthur/Arthur semantic": "enabled"
+      "Arthur/Arthur semantic": "enabled",
+      "Old CT/Old CT comp": "disabled"
     },
     "$figmaStyleReferences": {}
   }

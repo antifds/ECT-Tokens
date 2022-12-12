@@ -15,7 +15,7 @@
           "hover": {
             "value": {
               "spacing": "{core.spacing.s} {core.spacing.l}",
-              "fill": "{core.palette.purple60}",
+              "fill": "{core.palette.secondary60}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -24,7 +24,7 @@
           "pressed": {
             "value": {
               "spacing": "{core.spacing.s} {core.spacing.l}",
-              "fill": "{core.palette.purple70}",
+              "fill": "{core.palette.secondary70}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
@@ -76,7 +76,7 @@
           "pressed": {
             "value": {
               "spacing": "{semantic.spacing.padding.round-m}",
-              "fill": "{core.palette.purple10}",
+              "fill": "{core.palette.secondary10}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
               "border": "{semantic.color.primary.on-primary-container}",

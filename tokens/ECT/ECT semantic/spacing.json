@@ -66,6 +66,10 @@
           "value": "{core.spacing.s} {core.spacing.l}",
           "type": "spacing"
         },
+        "round-s": {
+          "value": "{core.spacing.xs} {core.spacing.l}",
+          "type": "spacing"
+        },
         "simple-xs": {
           "value": "{core.spacing.xs}",
           "type": "spacing"
