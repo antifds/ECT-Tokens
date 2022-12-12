@@ -25,10 +25,6 @@
           "type": "borderRadius"
         }
       },
-      "table": {
-        "value": "{core.border-radius.m}",
-        "type": "borderRadius"
-      },
       "primary": {
         "value": "{core.border-radius.m}",
         "type": "borderRadius"
