@@ -32,6 +32,10 @@
       "primary": {
         "value": "{core.border-radius.m}",
         "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{core.border-radius.xxl}",
+        "type": "borderRadius"
       }
     }
   }

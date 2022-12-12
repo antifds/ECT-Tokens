@@ -524,6 +524,10 @@
       "xl": {
         "value": "10",
         "type": "borderRadius"
+      },
+      "xxl": {
+        "value": "16",
+        "type": "borderRadius"
       }
     },
     "txt-decoration": {
