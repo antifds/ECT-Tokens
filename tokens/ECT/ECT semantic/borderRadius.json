@@ -1,29 +1,9 @@
 {
   "semantic": {
     "border-radius": {
-      "button": {
+      "table": {
         "value": "{core.border-radius.m}",
         "type": "borderRadius"
-      },
-      "icon": {
-        "value": "{core.border-radius.m}",
-        "type": "borderRadius"
-      },
-      "card": {
-        "value": "{core.border-radius.l}",
-        "type": "borderRadius"
-      },
-      "data-viz": {
-        "bar": {
-          "value": "{core.border-radius.m} {core.border-radius.m} 0 0",
-          "type": "borderRadius"
-        }
-      },
-      "tabs": {
-        "active-tab": {
-          "value": "{core.border-radius.m} {core.border-radius.m} 0 0",
-          "type": "borderRadius"
-        }
       },
       "primary": {
         "value": "{core.border-radius.m}",
@@ -31,6 +11,10 @@
       },
       "xl": {
         "value": "{core.border-radius.xxl}",
+        "type": "borderRadius"
+      },
+      "active-top": {
+        "value": "{semantic.border-radius.primary} {semantic.border-radius.primary} 0 0",
         "type": "borderRadius"
       }
     }

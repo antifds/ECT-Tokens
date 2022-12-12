@@ -991,7 +991,7 @@
                 "value": {
                   "fill": "{semantic.color.primary.primary}",
                   "spacing": "{semantic.padding.round-m}",
-                  "borderRadius": "{semantic.border-radius.tabs.active-tab}",
+                  "borderRadius": "{semantic.border-radius.active-top}",
                   "borderWidth": "0"
                 },
                 "type": "composition"
@@ -1012,7 +1012,7 @@
               "default": {
                 "value": {
                   "spacing": "{semantic.padding.round-m}",
-                  "borderRadius": "{semantic.border-radius.tabs.active-tab}"
+                  "borderRadius": "{semantic.border-radius.active-top}"
                 },
                 "type": "composition"
               },
@@ -1020,7 +1020,7 @@
                 "value": {
                   "fill": "{semantic.color.background.transparency.primary-lighter}",
                   "spacing": "{semantic.padding.round-m}",
-                  "borderRadius": "{semantic.border-radius.tabs.active-tab}",
+                  "borderRadius": "{semantic.border-radius.active-top}",
                   "itemSpacing": "{semantic.spacing.gap.gap-xs}"
                 },
                 "type": "composition"
@@ -1030,7 +1030,7 @@
               "default": {
                 "value": {
                   "fill": "{semantic.color.text.tertiary}",
-                  "typography": "{semantic.typography.body.large}"
+                  "typography": "{semantic.typography.button.medium}"
                 },
                 "type": "composition"
               }
