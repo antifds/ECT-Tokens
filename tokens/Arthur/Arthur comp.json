@@ -1,0 +1,252 @@
+{
+  "comp2": {
+    "button": {
+      "primary": {
+        "bg": {
+          "default": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.primary.primary}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.purple60}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.purple70}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.background.action-disabled}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          }
+        },
+        "text": {
+          "default": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.action-on-disabled-bg}"
+            },
+            "type": "composition"
+          }
+        }
+      },
+      "secondary": {
+        "bg": {
+          "pressed": {
+            "value": {
+              "spacing": "{semantic.padding.round-m}",
+              "fill": "{core.palette.purple10}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}",
+              "border": "{semantic.color.primary.on-primary-container}",
+              "boxShadow": "{semantic.elevation.button-interactive}"
+            },
+            "type": "composition"
+          }
+        },
+        "text": {
+          "pressed": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.primary.on-primary-container}"
+            },
+            "type": "composition"
+          }
+        },
+        "icon": {
+          "pressed": {
+            "value": {
+              "fill": "{semantic.color.primary.on-primary-container}"
+            },
+            "type": "composition"
+          }
+        }
+      }
+    },
+    "navigation": {
+      "tabs": {
+        "tab-item": {
+          "active": {
+            "bg": {
+              "default": {
+                "value": {
+                  "fill": "rgba({semantic.color.primary.primary},0.05)",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.xl}",
+                  "border": "{semantic.color.primary.on-primary-container}",
+                  "borderWidth": "1"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.on-primary-container}",
+                  "typography": "{semantic.typography.button.medium}"
+                },
+                "type": "composition"
+              }
+            }
+          },
+          "inactive": {
+            "bg": {
+              "default": {
+                "value": {
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.xl}"
+                },
+                "type": "composition"
+              },
+              "hover": {
+                "value": {
+                  "fill": "rgba({semantic.color.primary.primary},0.05)",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "{semantic.border-radius.xl}",
+                  "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary}",
+                  "typography": "{semantic.typography.body.large}"
+                },
+                "type": "composition"
+              }
+            }
+          }
+        },
+        "component": {
+          "value": {
+            "border": "{semantic.color.outline.variant}",
+            "itemSpacing": "0",
+            "borderRadius": "{semantic.border-radius.xl}",
+            "borderWidth": "1px"
+          },
+          "type": "composition"
+        }
+      }
+    },
+    "navigation2": {
+      "tabs": {
+        "tab-item": {
+          "active": {
+            "bg": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary-container}",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12",
+                  "border": "{semantic.color.primary.on-primary-container}",
+                  "borderWidth": "1"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.on-primary-container}",
+                  "typography": "{semantic.typography.button.medium}"
+                },
+                "type": "composition"
+              }
+            }
+          },
+          "inactive": {
+            "bg": {
+              "default": {
+                "value": {
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12"
+                },
+                "type": "composition"
+              },
+              "hover": {
+                "value": {
+                  "fill": "rgba({semantic.color.primary.primary},0.05)",
+                  "spacing": "{semantic.padding.round-m}",
+                  "borderRadius": "12",
+                  "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+                },
+                "type": "composition"
+              }
+            },
+            "text": {
+              "default": {
+                "value": {
+                  "fill": "{semantic.color.primary.primary}",
+                  "typography": "{semantic.typography.body.large}"
+                },
+                "type": "composition"
+              }
+            }
+          }
+        },
+        "component": {
+          "value": {
+            "border": "{semantic.color.outline.variant}",
+            "itemSpacing": "0",
+            "borderRadius": "12",
+            "borderWidth": "1px"
+          },
+          "type": "composition"
+        },
+        "component-bg": {
+          "value": {
+            "spacing": "{semantic.padding.simple-m}",
+            "fill": "{semantic.color.background.surface}",
+            "border": "{semantic.color.outline.variant}",
+            "borderWidth": "1px",
+            "borderRadius": "{semantic.border-radius.primary}"
+          },
+          "type": "composition"
+        }
+      }
+    }
+  }
+}

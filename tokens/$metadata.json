@@ -1,9 +1,17 @@
 {
   "tokenSetOrder": [
-    "comp",
-    "ref",
-    "sys",
-    "arthur",
-    "old CT"
+    "01. Core",
+    "ECT/ECT semantic/borderRadius",
+    "ECT/ECT semantic/color",
+    "ECT/ECT semantic/elevation",
+    "ECT/ECT semantic/fontFamilies",
+    "ECT/ECT semantic/opacity",
+    "ECT/ECT semantic/spacing",
+    "ECT/ECT semantic/typography",
+    "ECT/ECT comp",
+    "Arthur/Arthur semantic",
+    "Arthur/Arthur comp",
+    "Old CT/Old CT semantic",
+    "Old CT/Old CT comp"
   ]
 }

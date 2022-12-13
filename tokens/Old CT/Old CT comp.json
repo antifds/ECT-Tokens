@@ -1,0 +1,108 @@
+{
+  "comp2": {
+    "button": {
+      "primary": {
+        "bg": {
+          "default": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.primary.primary}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.secondary60}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{core.palette.secondary70}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "spacing": "{core.spacing.s} {core.spacing.l}",
+              "fill": "{semantic.color.background.action-disabled}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}"
+            },
+            "type": "composition"
+          }
+        },
+        "text": {
+          "default": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "hover": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "pressed": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.white}"
+            },
+            "type": "composition"
+          },
+          "disabled": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.text.action-on-disabled-bg}"
+            },
+            "type": "composition"
+          }
+        }
+      },
+      "secondary": {
+        "bg": {
+          "pressed": {
+            "value": {
+              "spacing": "{semantic.padding.round-m}",
+              "fill": "{core.palette.secondary10}",
+              "borderRadius": "{semantic.border-radius.primary}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xs}",
+              "border": "{semantic.color.primary.on-primary-container}",
+              "boxShadow": "{semantic.elevation.button-interactive}"
+            },
+            "type": "composition"
+          }
+        },
+        "text": {
+          "pressed": {
+            "value": {
+              "typography": "{semantic.typography.button.medium}",
+              "fill": "{semantic.color.primary.on-primary-container}"
+            },
+            "type": "composition"
+          }
+        },
+        "icon": {
+          "pressed": {
+            "value": {
+              "fill": "{semantic.color.primary.on-primary-container}"
+            },
+            "type": "composition"
+          }
+        }
+      }
+    }
+  }
+}

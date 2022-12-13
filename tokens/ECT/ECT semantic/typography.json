@@ -1,0 +1,152 @@
+{
+  "semantic": {
+    "typography": {
+      "headline": {
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.typescale.headline.font}",
+            "fontWeight": "{semantic.typescale.headline-large.weight}",
+            "lineHeight": "{semantic.typescale.headline-large.line-height}",
+            "fontSize": "{semantic.typescale.headline-large.size}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.typescale.headline.font}",
+            "fontWeight": "{semantic.typescale.headline-medium.weight}",
+            "lineHeight": "{semantic.typescale.headline-medium.line-height}",
+            "fontSize": "{semantic.typescale.headline-medium.size}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.typescale.headline.font}",
+            "fontWeight": "{semantic.typescale.headline-small.weight}",
+            "lineHeight": "{semantic.typescale.headline-small.line-height}",
+            "fontSize": "{semantic.typescale.headline-small.size}"
+          },
+          "type": "typography"
+        }
+      },
+      "title": {
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.typescale.title.font}",
+            "fontWeight": "{semantic.typescale.title-large.weight}",
+            "lineHeight": "{semantic.typescale.title-large.line-height}",
+            "fontSize": "{semantic.typescale.title-large.size}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.typescale.title.font}",
+            "fontWeight": "{semantic.typescale.title-medium.weight}",
+            "lineHeight": "{semantic.typescale.title-medium.line-height}",
+            "fontSize": "{semantic.typescale.title-medium.size}"
+          },
+          "type": "typography"
+        },
+        "medium-underline": {
+          "value": {
+            "fontFamily": "{semantic.typescale.title.font}",
+            "fontWeight": "{semantic.typescale.title-medium.weight}",
+            "lineHeight": "{semantic.typescale.title-medium.line-height}",
+            "fontSize": "{semantic.typescale.title-medium.size}",
+            "textDecoration": "{core.txt-decoration.underline}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.typescale.title.font}",
+            "fontWeight": "{semantic.typescale.title-small.weight}",
+            "lineHeight": "{semantic.typescale.title-small.line-height}",
+            "fontSize": "{semantic.typescale.title-small.size}"
+          },
+          "type": "typography"
+        }
+      },
+      "label": {
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.typescale.label.font}",
+            "fontWeight": "{semantic.typescale.label-large.weight}",
+            "lineHeight": "{semantic.typescale.label-large.line-height}",
+            "fontSize": "{semantic.typescale.label-large.size}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.typescale.label.font}",
+            "fontWeight": "{semantic.typescale.label-medium.weight}",
+            "lineHeight": "{semantic.typescale.label-medium.line-height}",
+            "fontSize": "{semantic.typescale.label-medium.size}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.typescale.label.font}",
+            "fontWeight": "{semantic.typescale.label-small.weight}",
+            "lineHeight": "{semantic.typescale.label-small.line-height}",
+            "fontSize": "{semantic.typescale.label-small.size}"
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "large": {
+          "value": {
+            "fontFamily": "{semantic.typescale.body.font}",
+            "fontWeight": "{semantic.typescale.body-large.weight}",
+            "lineHeight": "{semantic.typescale.body-large.line-height}",
+            "fontSize": "{semantic.typescale.body-large.size}"
+          },
+          "type": "typography"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.typescale.body.font}",
+            "fontWeight": "{semantic.typescale.body-medium.weight}",
+            "lineHeight": "{semantic.typescale.body-medium.line-height}",
+            "fontSize": "{semantic.typescale.body-medium.size}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.typescale.body.font}",
+            "fontWeight": "{semantic.typescale.body-small.weight}",
+            "lineHeight": "{semantic.typescale.body-small.line-height}",
+            "fontSize": "{semantic.typescale.body-small.size}"
+          },
+          "type": "typography"
+        }
+      },
+      "button": {
+        "medium": {
+          "value": {
+            "fontFamily": "{semantic.typescale.button.font}",
+            "fontWeight": "{semantic.typescale.button-medium.weight}",
+            "lineHeight": "{semantic.typescale.button-medium.line-height}",
+            "fontSize": "{semantic.typescale.button-medium.size}"
+          },
+          "type": "typography"
+        },
+        "small": {
+          "value": {
+            "fontFamily": "{semantic.typescale.button.font}",
+            "fontWeight": "{semantic.typescale.button-small.weight}",
+            "lineHeight": "{semantic.typescale.button-small.line-height}",
+            "fontSize": "{semantic.typescale.button-small.size}"
+          },
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
