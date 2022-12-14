@@ -606,6 +606,28 @@
         ],
         "type": "boxShadow"
       }
+    },
+    "sizing": {
+      "s": {
+        "value": "12px",
+        "type": "sizing"
+      },
+      "xs": {
+        "value": "8px",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "24px",
+        "type": "sizing"
+      }
     }
   }
 }
