@@ -7,9 +7,51 @@
           "type": "fontFamilies"
         }
       },
+      "display-large": {
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "56px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "48px",
+          "type": "fontSizes"
+        }
+      },
+      "display-medium": {
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "48px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "40px",
+          "type": "fontSizes"
+        }
+      },
+      "display-small": {
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "38px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "32px",
+          "type": "fontSizes"
+        }
+      },
       "headline-large": {
         "line-height": {
-          "value": "38",
+          "value": "38px",
           "type": "lineHeights"
         },
         "size": {
@@ -23,7 +65,7 @@
       },
       "headline-medium": {
         "line-height": {
-          "value": "32",
+          "value": "32px",
           "type": "lineHeights"
         },
         "size": {
@@ -37,7 +79,7 @@
       },
       "headline-small": {
         "line-height": {
-          "value": "26",
+          "value": "26px",
           "type": "lineHeights"
         },
         "size": {
@@ -71,7 +113,7 @@
       },
       "title-medium": {
         "line-height": {
-          "value": "22",
+          "value": "22px",
           "type": "lineHeights"
         },
         "size": {
@@ -105,7 +147,7 @@
       },
       "label-large": {
         "line-height": {
-          "value": "18",
+          "value": "18px",
           "type": "lineHeights"
         },
         "size": {
@@ -119,7 +161,7 @@
       },
       "label-medium": {
         "line-height": {
-          "value": "16",
+          "value": "16px",
           "type": "lineHeights"
         },
         "size": {
@@ -133,7 +175,7 @@
       },
       "label-small": {
         "line-height": {
-          "value": "12",
+          "value": "12px",
           "type": "lineHeights"
         },
         "size": {
@@ -153,7 +195,7 @@
       },
       "body-large": {
         "line-height": {
-          "value": "22",
+          "value": "22px",
           "type": "lineHeights"
         },
         "size": {
@@ -167,7 +209,7 @@
       },
       "body-medium": {
         "line-height": {
-          "value": "18",
+          "value": "18px",
           "type": "lineHeights"
         },
         "size": {
@@ -181,7 +223,7 @@
       },
       "body-small": {
         "line-height": {
-          "value": "16",
+          "value": "16px",
           "type": "lineHeights"
         },
         "size": {
@@ -199,7 +241,7 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "22",
+          "value": "22px",
           "type": "lineHeights"
         },
         "size": {
@@ -219,12 +261,18 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "16",
+          "value": "16px",
           "type": "lineHeights"
         },
         "size": {
           "value": "14",
           "type": "fontSizes"
+        }
+      },
+      "display": {
+        "font": {
+          "value": "{core.brand}",
+          "type": "fontFamilies"
         }
       }
     }
