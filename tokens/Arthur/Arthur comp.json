@@ -162,7 +162,7 @@
               "default": {
                 "value": {
                   "fill": "{semantic.color.primary.primary}",
-                  "typography": "{semantic.typography.body.large}"
+                  "typography": "{semantic.typography.button.medium}"
                 },
                 "type": "composition"
               }
