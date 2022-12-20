@@ -798,28 +798,28 @@
         "text": {
           "default": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.small}",
               "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.small}",
               "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "pressed": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.small}",
               "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "disabled": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.small}",
               "fill": "{semantic.color.text.action-disabled}"
             },
             "type": "composition"
@@ -857,7 +857,8 @@
           "default": {
             "value": {
               "spacing": "{core.spacing.xs}",
-              "borderRadius": "{semantic.border-radius.primary}"
+              "borderRadius": "{semantic.border-radius.primary}",
+              "sizing": "{core.sizing.xl}"
             },
             "type": "composition"
           },
@@ -865,7 +866,8 @@
             "value": {
               "spacing": "{core.spacing.xs}",
               "borderRadius": "{semantic.border-radius.primary}",
-              "fill": "{semantic.color.background.transparency.primary-lighter}"
+              "fill": "{semantic.color.background.transparency.primary-lighter}",
+              "sizing": "{core.sizing.xl}"
             },
             "type": "composition"
           },
@@ -873,14 +875,16 @@
             "value": {
               "spacing": "{core.spacing.xs}",
               "borderRadius": "{semantic.border-radius.primary}",
-              "fill": "{semantic.color.background.transparency.primary-light}"
+              "fill": "{semantic.color.background.transparency.primary-light}",
+              "sizing": "{core.sizing.xl}"
             },
             "type": "composition"
           },
           "disabled": {
             "value": {
               "spacing": "{core.spacing.xs}",
-              "borderRadius": "{semantic.border-radius.primary}"
+              "borderRadius": "{semantic.border-radius.primary}",
+              "sizing": "{core.sizing.xl}"
             },
             "type": "composition"
           }

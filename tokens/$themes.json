@@ -1,46 +1,5 @@
 [
   {
-    "id": "b69edf58017e15347aa4549af1d394a372b66892",
-    "name": "OLD CT",
-    "selectedTokenSets": {
-      "01. Core": "source",
-      "ECT/ECT comp": "source",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled",
-      "Old CT/Old CT semantic": "enabled",
-      "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled",
-      "Old CT/Old CT comp": "disabled",
-      "ECT/ECT semantic/sizing": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
-    "selectedTokenSets": {
-      "01. Core": "source",
-      "ECT/ECT comp": "source",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled",
-      "Arthur/Arthur comp": "enabled",
-      "Arthur/Arthur semantic": "enabled",
-      "Old CT/Old CT comp": "disabled",
-      "ECT/ECT semantic/sizing": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
@@ -192,5 +151,46 @@
       "semantic.typography.display.medium": "S:e8243f79685d1d1434cb3e9d8b278f4ec72bd5d4,",
       "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,"
     }
+  },
+  {
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Arthur/Arthur comp": "enabled",
+      "Arthur/Arthur semantic": "enabled",
+      "Old CT/Old CT comp": "disabled",
+      "ECT/ECT semantic/sizing": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b69edf58017e15347aa4549af1d394a372b66892",
+    "name": "OLD CT",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Old CT/Old CT semantic": "enabled",
+      "Arthur/Arthur comp": "disabled",
+      "Arthur/Arthur semantic": "disabled",
+      "Old CT/Old CT comp": "disabled",
+      "ECT/ECT semantic/sizing": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
