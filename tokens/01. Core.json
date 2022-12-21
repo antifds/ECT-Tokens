@@ -42,31 +42,31 @@
         "type": "color"
       },
       "secondary90": {
-        "value": "#293545",
+        "value": "#2F3A44",
         "type": "color"
       },
       "secondary80": {
-        "value": "#314053",
+        "value": "#33404A",
         "type": "color"
       },
       "secondary70": {
-        "value": "#394A61",
+        "value": "#3C4A57",
         "type": "color"
       },
       "secondary60": {
-        "value": "#4A5F7C",
+        "value": "#485A69",
         "type": "color"
       },
       "secondary50": {
-        "value": "#526A8A",
+        "value": "#556A7C",
         "type": "color"
       },
       "secondary40": {
-        "value": "#778EAE",
+        "value": "#8297A9",
         "type": "color"
       },
       "secondary30": {
-        "value": "#A4B4C9",
+        "value": "#AFBCC8",
         "type": "color"
       },
       "secondary20": {
