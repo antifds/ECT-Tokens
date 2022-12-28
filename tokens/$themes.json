@@ -124,7 +124,6 @@
       "semantic.color.icons.warning": "S:042511a3f08cd7cdb80a5913d0e6766f48b19507,",
       "semantic.color.icons.disabled": "S:375736c2d6318613b19a7214cc6c0e59f19fecbb,",
       "semantic.color.icons.on-disabled-bg": "S:e84ddf2243fe50dbd5df079621f899ca2c619a88,",
-      "semantic.color.icons.white": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,",
       "semantic.typography.headline.large": "S:fb77c49b732eb397f67d51f60a12737ca99e4cdd,",
       "semantic.typography.headline.medium": "S:1c69d9c9d3d26035f19f5b71a9cb85ccd4331c9b,",
       "semantic.typography.headline.small": "S:a28d02048e1b44a9bdd6b4514790a8b2b5f25eef,",
@@ -149,7 +148,8 @@
       "semantic.typography.Display.small": "S:0619fbc37a2edc848f7b4ec7ffecaa8c293e4a5b,",
       "semantic.typography.display.large": "S:f3eed1db6481039ca44935368c5f821ae1afb67d,",
       "semantic.typography.display.medium": "S:e8243f79685d1d1434cb3e9d8b278f4ec72bd5d4,",
-      "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,"
+      "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,",
+      "semantic.color.icons.on-primary": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,"
     }
   },
   {
