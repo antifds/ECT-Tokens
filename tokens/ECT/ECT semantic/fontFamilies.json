@@ -235,9 +235,23 @@
           "type": "fontWeights"
         }
       },
-      "button-medium": {
+      "button-medium-bold": {
         "weight": {
           "value": "{core.typeface.weight.bold}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "22px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "16",
+          "type": "fontSizes"
+        }
+      },
+      "button-medium-regular": {
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
           "type": "fontWeights"
         },
         "line-height": {
@@ -255,9 +269,23 @@
           "type": "fontFamilies"
         }
       },
-      "button-small": {
+      "button-small-bold": {
         "weight": {
           "value": "{core.typeface.weight.bold}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "14",
+          "type": "fontSizes"
+        }
+      },
+      "button-small-regular": {
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
           "type": "fontWeights"
         },
         "line-height": {

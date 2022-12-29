@@ -43,28 +43,28 @@
         "text": {
           "default": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.medium-bold}",
               "fill": "{semantic.color.text.white}"
             },
             "type": "composition"
           },
           "hover": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.medium-bold}",
               "fill": "{semantic.color.text.white}"
             },
             "type": "composition"
           },
           "pressed": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.medium-bold}",
               "fill": "{semantic.color.text.white}"
             },
             "type": "composition"
           },
           "disabled": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.medium-bold}",
               "fill": "{semantic.color.text.action-on-disabled-bg}"
             },
             "type": "composition"
@@ -88,7 +88,7 @@
         "text": {
           "pressed": {
             "value": {
-              "typography": "{semantic.typography.button.medium}",
+              "typography": "{semantic.typography.button.medium-bold}",
               "fill": "{semantic.color.primary.on-primary-container}"
             },
             "type": "composition"
@@ -124,7 +124,7 @@
               "default": {
                 "value": {
                   "fill": "{semantic.color.primary.on-primary-container}",
-                  "typography": "{semantic.typography.button.medium}"
+                  "typography": "{semantic.typography.button.medium-bold}"
                 },
                 "type": "composition"
               }
@@ -162,7 +162,7 @@
               "default": {
                 "value": {
                   "fill": "{semantic.color.primary.primary}",
-                  "typography": "{semantic.typography.button.medium}"
+                  "typography": "{semantic.typography.button.medium-bold}"
                 },
                 "type": "composition"
               }

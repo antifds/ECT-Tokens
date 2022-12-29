@@ -157,21 +157,39 @@
         }
       },
       "button": {
-        "medium": {
+        "medium-bold": {
           "value": {
             "fontFamily": "{semantic.typescale.button.font}",
-            "fontWeight": "{semantic.typescale.button-medium.weight}",
-            "lineHeight": "{semantic.typescale.button-medium.line-height}",
-            "fontSize": "{semantic.typescale.button-medium.size}"
+            "fontWeight": "{semantic.typescale.button-medium-bold.weight}",
+            "lineHeight": "{semantic.typescale.button-medium-bold.line-height}",
+            "fontSize": "{semantic.typescale.button-medium-bold.size}"
           },
           "type": "typography"
         },
-        "small": {
+        "medium-regular": {
           "value": {
             "fontFamily": "{semantic.typescale.button.font}",
-            "fontWeight": "{semantic.typescale.button-small.weight}",
-            "lineHeight": "{semantic.typescale.button-small.line-height}",
-            "fontSize": "{semantic.typescale.button-small.size}"
+            "fontWeight": "{semantic.typescale.button-medium-regular.weight}",
+            "lineHeight": "{semantic.typescale.button-medium-regular.line-height}",
+            "fontSize": "{semantic.typescale.button-medium-regular.size}"
+          },
+          "type": "typography"
+        },
+        "small-bold": {
+          "value": {
+            "fontFamily": "{semantic.typescale.button.font}",
+            "fontWeight": "{semantic.typescale.button-small-bold.weight}",
+            "lineHeight": "{semantic.typescale.button-small-bold.line-height}",
+            "fontSize": "{semantic.typescale.button-small-bold.size}"
+          },
+          "type": "typography"
+        },
+        "small-regular": {
+          "value": {
+            "fontFamily": "{semantic.typescale.button.font}",
+            "fontWeight": "{semantic.typescale.button-small-regular.weight}",
+            "lineHeight": "{semantic.typescale.button-small-regular.line-height}",
+            "fontSize": "{semantic.typescale.button-small-regular.size}"
           },
           "type": "typography"
         }

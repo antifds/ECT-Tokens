@@ -83,12 +83,16 @@
         "value": "{core.spacing.xs} {core.spacing.s}",
         "type": "spacing"
       },
-      "round-m": {
-        "value": "{core.spacing.s} {core.spacing.l}",
-        "type": "spacing"
-      },
       "round-s": {
         "value": "{core.spacing.xs} {core.spacing.l}",
+        "type": "spacing"
+      },
+      "round-sm": {
+        "value": "{core.spacing.xxs} {core.spacing.m}",
+        "type": "spacing"
+      },
+      "round-m": {
+        "value": "{core.spacing.s} {core.spacing.l}",
         "type": "spacing"
       },
       "simple-xs": {

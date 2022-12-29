@@ -487,6 +487,10 @@
         "value": "4",
         "type": "spacing"
       },
+      "ss": {
+        "value": "6",
+        "type": "spacing"
+      },
       "s": {
         "value": "8",
         "type": "spacing"

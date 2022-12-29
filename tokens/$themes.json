@@ -137,8 +137,6 @@
       "semantic.typography.body.large": "S:987543796e5733ceef018ee432ea9362a810df51,",
       "semantic.typography.body.medium": "S:655b2c6e6cb0cc2f3460d103f99793f172f03de2,",
       "semantic.typography.body.small": "S:d0bea716c5185e884a4fc452217f19fd78705688,",
-      "semantic.typography.button.medium": "S:3cd99b2ef337f7b24ead206e541e50a9498043e0,",
-      "semantic.typography.button.small": "S:69d3a04fde9d933c7f6f14dffcdf002b451c4e49,",
       "semantic.elevation.button-interactive": "S:bbbbe8132848e25f31df7d4411718e71c6ba4f2b,",
       "semantic.elevation.level1": "S:586fe7285e2c89b9ca3e597c5bac9aaf8d0d3f3f,",
       "semantic.elevation.level2": "S:2476a7a486e2c63e1074845ed1e320ca99e2f46f,",
@@ -149,7 +147,10 @@
       "semantic.typography.display.large": "S:f3eed1db6481039ca44935368c5f821ae1afb67d,",
       "semantic.typography.display.medium": "S:e8243f79685d1d1434cb3e9d8b278f4ec72bd5d4,",
       "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,",
-      "semantic.color.icons.on-primary": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,"
+      "semantic.color.icons.on-primary": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,",
+      "semantic.typography.button.small-bold": "S:c24764233d47c7200b60d117f3b79fa3a1faa2e3,",
+      "semantic.typography.button.small-regular": "S:fda5a600840639ea42ced5710047411af45bde42,",
+      "semantic.typography.button.medium-bold": "S:3cd99b2ef337f7b24ead206e541e50a9498043e0,"
     }
   },
   {
