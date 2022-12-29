@@ -88,7 +88,7 @@
         "type": "spacing"
       },
       "round-sm": {
-        "value": "{core.spacing.xxs} {core.spacing.m}",
+        "value": "{core.spacing.xs} {core.spacing.m}",
         "type": "spacing"
       },
       "round-m": {
