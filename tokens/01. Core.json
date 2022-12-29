@@ -42,31 +42,31 @@
         "type": "color"
       },
       "secondary90": {
-        "value": "#293545",
+        "value": "#2F3A44",
         "type": "color"
       },
       "secondary80": {
-        "value": "#314053",
+        "value": "#33404A",
         "type": "color"
       },
       "secondary70": {
-        "value": "#394A61",
+        "value": "#3C4A57",
         "type": "color"
       },
       "secondary60": {
-        "value": "#4A5F7C",
+        "value": "#485A69",
         "type": "color"
       },
       "secondary50": {
-        "value": "#526A8A",
+        "value": "#556A7C",
         "type": "color"
       },
       "secondary40": {
-        "value": "#778EAE",
+        "value": "#8297A9",
         "type": "color"
       },
       "secondary30": {
-        "value": "#A4B4C9",
+        "value": "#AFBCC8",
         "type": "color"
       },
       "secondary20": {
@@ -434,7 +434,7 @@
         "type": "color"
       },
       "purple10": {
-        "value": "#F0CCF8",
+        "value": "#F5DCFB",
         "type": "color"
       },
       "purple05": {
@@ -485,6 +485,10 @@
       },
       "xs": {
         "value": "4",
+        "type": "spacing"
+      },
+      "ss": {
+        "value": "6",
         "type": "spacing"
       },
       "s": {
@@ -605,6 +609,28 @@
           }
         ],
         "type": "boxShadow"
+      }
+    },
+    "sizing": {
+      "s": {
+        "value": "12px",
+        "type": "sizing"
+      },
+      "xs": {
+        "value": "8px",
+        "type": "sizing"
+      },
+      "m": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "l": {
+        "value": "20px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "24px",
+        "type": "sizing"
       }
     }
   }

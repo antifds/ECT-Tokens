@@ -1,0 +1,24 @@
+{
+  "semantic": {
+    "sizing": {
+      "icon": {
+        "m": {
+          "value": "{core.sizing.m}",
+          "type": "sizing"
+        },
+        "l": {
+          "value": "{core.sizing.l}",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "{core.sizing.xl}",
+          "type": "sizing"
+        },
+        "s": {
+          "value": "{core.sizing.s}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

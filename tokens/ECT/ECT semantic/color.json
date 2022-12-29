@@ -422,7 +422,7 @@
           "value": "{core.palette.neutral70}",
           "type": "color"
         },
-        "white": {
+        "on-primary": {
           "value": "{core.palette.white}",
           "type": "color"
         }
