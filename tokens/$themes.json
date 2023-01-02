@@ -1,5 +1,42 @@
 [
   {
+    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
+    "name": "3rd Theme",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Arthur/Arthur comp": "enabled",
+      "Arthur/Arthur semantic": "enabled",
+      "ECT/ECT semantic/sizing": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b69edf58017e15347aa4549af1d394a372b66892",
+    "name": "OLD CT",
+    "selectedTokenSets": {
+      "01. Core": "source",
+      "ECT/ECT comp": "source",
+      "ECT/ECT semantic/borderRadius": "enabled",
+      "ECT/ECT semantic/elevation": "enabled",
+      "ECT/ECT semantic/color": "enabled",
+      "ECT/ECT semantic/fontFamilies": "enabled",
+      "ECT/ECT semantic/opacity": "enabled",
+      "ECT/ECT semantic/spacing": "enabled",
+      "ECT/ECT semantic/typography": "enabled",
+      "Old CT/Old CT semantic": "enabled",
+      "ECT/ECT semantic/sizing": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "f130e32d8f74d0070f92ebd3f83d73914541d629",
     "name": "ECT",
     "selectedTokenSets": {
@@ -12,7 +49,8 @@
       "ECT/ECT semantic/opacity": "enabled",
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
-      "ECT/ECT semantic/sizing": "enabled"
+      "ECT/ECT semantic/sizing": "enabled",
+      "ECT/ECT semantic/border": "enabled"
     },
     "$figmaStyleReferences": {
       "color.content.white": "S:84e7e3732fabfaf639c68224a9aef66fa82b2e7f,",
@@ -151,42 +189,5 @@
       "semantic.color.icons.alert.warning": "S:21b85beb10e36eb53659cda503340877e48bbf9c,",
       "semantic.color.icons.on-surface": "S:24724f13571c9784b3e245424be415e7db348bad,"
     }
-  },
-  {
-    "id": "e312eb666f21d235b1261dd01d7decef1c0b70cc",
-    "name": "3rd Theme",
-    "selectedTokenSets": {
-      "01. Core": "source",
-      "ECT/ECT comp": "source",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled",
-      "Arthur/Arthur comp": "enabled",
-      "Arthur/Arthur semantic": "enabled",
-      "ECT/ECT semantic/sizing": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "b69edf58017e15347aa4549af1d394a372b66892",
-    "name": "OLD CT",
-    "selectedTokenSets": {
-      "01. Core": "source",
-      "ECT/ECT comp": "source",
-      "ECT/ECT semantic/borderRadius": "enabled",
-      "ECT/ECT semantic/elevation": "enabled",
-      "ECT/ECT semantic/color": "enabled",
-      "ECT/ECT semantic/fontFamilies": "enabled",
-      "ECT/ECT semantic/opacity": "enabled",
-      "ECT/ECT semantic/spacing": "enabled",
-      "ECT/ECT semantic/typography": "enabled",
-      "Old CT/Old CT semantic": "enabled",
-      "ECT/ECT semantic/sizing": "enabled"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
