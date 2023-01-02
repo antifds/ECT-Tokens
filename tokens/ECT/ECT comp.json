@@ -1390,6 +1390,12 @@
               }
             }
           }
+        },
+        "": {
+          "value": {
+            "border": "{border.semantic.selected}"
+          },
+          "type": "composition"
         }
       },
       "comp": {
@@ -1397,17 +1403,17 @@
           "spacing": "{core.spacing.xs}",
           "fill": "{semantic.color.background.surface}",
           "borderRadius": "{semantic.border-radius.primary}",
-          "borderColor": "{semantic.color.outline.selected}",
-          "borderWidth": "1px"
+          "border": "{border.semantic.selected}"
         },
         "type": "composition"
       },
       "comp2": {
         "value": {
-          "border": "{border.semantic.selected}",
+          "borderWidth": "1px",
           "borderRadius": "{semantic.border-radius.primary}",
-          "spacing": "{semantic.padding.simple-xs} {semantic.padding.simple-xs}",
-          "fill": "{semantic.color.background.surface}"
+          "spacing": "{semantic.padding.simple-xs}",
+          "fill": "{semantic.color.background.surface}",
+          "borderColor": "#000"
         },
         "type": "composition"
       }
