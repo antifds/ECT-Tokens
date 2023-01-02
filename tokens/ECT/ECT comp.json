@@ -1463,6 +1463,97 @@
         },
         "type": "composition"
       }
+    },
+    "filter-button": {
+      "default": {
+        "bg": {
+          "value": {
+            "borderRadius": "{semantic.border-radius.primary}",
+            "itemSpacing": "{semantic.spacing.gap.gap-xs}",
+            "spacing": "{semantic.padding.round-xs}"
+          },
+          "type": "composition"
+        },
+        "text": {
+          "value": {
+            "typography": "{semantic.typography.label.large}",
+            "fill": "{semantic.color.text.primary}"
+          },
+          "type": "composition"
+        },
+        "filter-icon": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        },
+        "right-arrow": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        }
+      },
+      "hover": {
+        "bg": {
+          "value": {
+            "borderRadius": "{semantic.border-radius.primary}",
+            "itemSpacing": "{semantic.spacing.gap.gap-xs}",
+            "spacing": "{semantic.padding.round-xs}",
+            "fill": "{semantic.color.background.transparency.secondary-lighter}"
+          },
+          "type": "composition"
+        },
+        "text": {
+          "value": {
+            "typography": "{semantic.typography.label.large}",
+            "fill": "{semantic.color.text.primary}"
+          },
+          "type": "composition"
+        },
+        "filter-icon": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        },
+        "right-arrow": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        }
+      },
+      "pressed": {
+        "bg": {
+          "value": {
+            "borderRadius": "{semantic.border-radius.primary}",
+            "itemSpacing": "{semantic.spacing.gap.gap-xs}",
+            "spacing": "{semantic.padding.round-xs}",
+            "fill": "{semantic.color.background.transparency.secondary-light}"
+          },
+          "type": "composition"
+        },
+        "text": {
+          "value": {
+            "typography": "{semantic.typography.label.large}",
+            "fill": "{semantic.color.text.primary}"
+          },
+          "type": "composition"
+        },
+        "filter-icon": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        },
+        "right-arrow": {
+          "value": {
+            "fill": "{semantic.color.icons.on-surface}"
+          },
+          "type": "composition"
+        }
+      }
     }
   }
 }
