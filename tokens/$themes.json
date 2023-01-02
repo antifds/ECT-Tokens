@@ -14,8 +14,7 @@
       "ECT/ECT semantic/typography": "enabled",
       "Arthur/Arthur comp": "enabled",
       "Arthur/Arthur semantic": "enabled",
-      "ECT/ECT semantic/sizing": "enabled",
-      "ECT/ECT semantic/border": "disabled"
+      "ECT/ECT semantic/sizing": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -33,8 +32,7 @@
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
       "Old CT/Old CT semantic": "enabled",
-      "ECT/ECT semantic/sizing": "enabled",
-      "ECT/ECT semantic/border": "disabled"
+      "ECT/ECT semantic/sizing": "enabled"
     },
     "$figmaStyleReferences": {}
   },
