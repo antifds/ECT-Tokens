@@ -12,9 +12,6 @@
       "ECT/ECT semantic/opacity": "enabled",
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
-      "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled",
-      "Old CT/Old CT comp": "disabled",
       "ECT/ECT semantic/sizing": "enabled"
     },
     "$figmaStyleReferences": {
@@ -118,10 +115,6 @@
       "semantic.color.icons.secondary": "S:501aed66d6a70d3f923d394314ee0d0f31cb75f5,",
       "semantic.color.icons.tertiary": "S:f40355bfe7aa8a77ef2e5b8212475390ad391e2f,",
       "semantic.color.icons.tertiary-dark": "S:d88b753b5ba91739620e0bcf7440e9d5e7382f07,",
-      "semantic.color.icons.critical": "S:88bf29f7e12de92896194626867e5588b8ea710f,",
-      "semantic.color.icons.success": "S:c0b16c9024081ce4b264fea00987b9426abb260d,",
-      "semantic.color.icons.ahead": "S:2b0e222cf9ecfcc8651f8d40092b89f7aead27c6,",
-      "semantic.color.icons.warning": "S:042511a3f08cd7cdb80a5913d0e6766f48b19507,",
       "semantic.color.icons.disabled": "S:375736c2d6318613b19a7214cc6c0e59f19fecbb,",
       "semantic.color.icons.on-disabled-bg": "S:e84ddf2243fe50dbd5df079621f899ca2c619a88,",
       "semantic.typography.headline.large": "S:fb77c49b732eb397f67d51f60a12737ca99e4cdd,",
@@ -147,11 +140,16 @@
       "semantic.typography.display.large": "S:f3eed1db6481039ca44935368c5f821ae1afb67d,",
       "semantic.typography.display.medium": "S:e8243f79685d1d1434cb3e9d8b278f4ec72bd5d4,",
       "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,",
-      "semantic.color.icons.on-primary": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,",
+      "semantic.color.icons.on-primary": "S:48cb3e6a80b7fa05f209e9e0c24d50ce9c850b54,",
       "semantic.typography.button.small-bold": "S:c24764233d47c7200b60d117f3b79fa3a1faa2e3,",
       "semantic.typography.button.small-regular": "S:fda5a600840639ea42ced5710047411af45bde42,",
       "semantic.typography.button.medium-bold": "S:3442c4afa11e63e7a17068c93bd9a25a5443fa02,",
-      "semantic.typography.button.medium-regular": "S:29971cae10804298623618135fc695435fb24750,"
+      "semantic.typography.button.medium-regular": "S:29971cae10804298623618135fc695435fb24750,",
+      "semantic.color.icons.alert.critical": "S:3526caeef25d28cbd5abc5c98275d46a3cbe9e9a,",
+      "semantic.color.icons.alert.success": "S:da2a206e90c964d4b1791eea2b1529423faa9df5,",
+      "semantic.color.icons.alert.ahead": "S:2a7a0cce2ad2f2f878bfe15fd564d10632e9bdc5,",
+      "semantic.color.icons.alert.warning": "S:21b85beb10e36eb53659cda503340877e48bbf9c,",
+      "semantic.color.icons.on-surface": "S:24724f13571c9784b3e245424be415e7db348bad,"
     }
   },
   {
@@ -169,7 +167,6 @@
       "ECT/ECT semantic/typography": "enabled",
       "Arthur/Arthur comp": "enabled",
       "Arthur/Arthur semantic": "enabled",
-      "Old CT/Old CT comp": "disabled",
       "ECT/ECT semantic/sizing": "enabled"
     },
     "$figmaStyleReferences": {}
@@ -188,9 +185,6 @@
       "ECT/ECT semantic/spacing": "enabled",
       "ECT/ECT semantic/typography": "enabled",
       "Old CT/Old CT semantic": "enabled",
-      "Arthur/Arthur comp": "disabled",
-      "Arthur/Arthur semantic": "disabled",
-      "Old CT/Old CT comp": "disabled",
       "ECT/ECT semantic/sizing": "enabled"
     },
     "$figmaStyleReferences": {}

@@ -398,22 +398,6 @@
           "value": "{semantic.color.secondary.on-secondary-container}",
           "type": "color"
         },
-        "critical": {
-          "value": "{semantic.color.alerts.critical-weak}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{semantic.color.alerts.success-weak}",
-          "type": "color"
-        },
-        "ahead": {
-          "value": "{semantic.color.alerts.ahead-weak}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{semantic.color.alerts.warning-weak}",
-          "type": "color"
-        },
         "disabled": {
           "value": "{core.palette.neutral60}",
           "type": "color"
@@ -425,6 +409,28 @@
         "on-primary": {
           "value": "{core.palette.white}",
           "type": "color"
+        },
+        "on-surface": {
+          "value": "{core.palette.black}",
+          "type": "color"
+        },
+        "alert": {
+          "critical": {
+            "value": "{semantic.color.alerts.critical-weak}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{semantic.color.alerts.success-weak}",
+            "type": "color"
+          },
+          "ahead": {
+            "value": "{semantic.color.alerts.ahead-weak}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{semantic.color.alerts.warning-weak}",
+            "type": "color"
+          }
         }
       }
     }
