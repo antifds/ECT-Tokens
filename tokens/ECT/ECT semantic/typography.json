@@ -193,6 +193,26 @@
           },
           "type": "typography"
         }
+      },
+      "table": {
+        "medium-bold": {
+          "value": {
+            "fontFamily": "{semantic.typescale.table.font}",
+            "fontWeight": "{semantic.typescale.table-medium-bold.weight}",
+            "lineHeight": "{semantic.typescale.table-medium-bold.line-height}",
+            "fontSize": "{semantic.typescale.table-medium-bold.size}"
+          },
+          "type": "typography"
+        },
+        "medium-regular": {
+          "value": {
+            "fontFamily": "{semantic.typescale.table.font}",
+            "fontWeight": "{semantic.typescale.table-medium-regular.weight}",
+            "lineHeight": "{semantic.typescale.table-medium-regular.line-height}",
+            "fontSize": "{semantic.typescale.table-medium-regular.size}"
+          },
+          "type": "typography"
+        }
       }
     }
   }

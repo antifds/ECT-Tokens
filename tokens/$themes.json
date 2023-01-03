@@ -186,7 +186,9 @@
       "semantic.typography.button.small-bold": "S:c24764233d47c7200b60d117f3b79fa3a1faa2e3,",
       "semantic.typography.button.small-regular": "S:fda5a600840639ea42ced5710047411af45bde42,",
       "semantic.typography.button.medium-bold": "S:3442c4afa11e63e7a17068c93bd9a25a5443fa02,",
-      "semantic.typography.button.medium-regular": "S:29971cae10804298623618135fc695435fb24750,"
+      "semantic.typography.button.medium-regular": "S:29971cae10804298623618135fc695435fb24750,",
+      "semantic.typography.table.medium-bold": "S:924b86624682c551fad510daf3bf0c9da0535ff7,",
+      "semantic.typography.table.medium-regular": "S:b40b5eef7356a7315e8bc1fa45999db8eb727fa0,"
     }
   }
 ]

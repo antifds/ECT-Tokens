@@ -425,6 +425,10 @@
         "on-primary": {
           "value": "{core.palette.white}",
           "type": "color"
+        },
+        "on-surface": {
+          "value": "{core.palette.black}",
+          "type": "color"
         }
       }
     }

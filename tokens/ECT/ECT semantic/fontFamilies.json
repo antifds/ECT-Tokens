@@ -297,7 +297,41 @@
           "type": "fontSizes"
         }
       },
+      "table-medium-bold": {
+        "line-height": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "12px",
+          "type": "fontSizes"
+        },
+        "weight": {
+          "value": "{core.typeface.weight.bold}",
+          "type": "fontWeights"
+        }
+      },
+      "table-medium-regular": {
+        "line-height": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "12px",
+          "type": "fontSizes"
+        },
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
+          "type": "fontWeights"
+        }
+      },
       "display": {
+        "font": {
+          "value": "{core.brand}",
+          "type": "fontFamilies"
+        }
+      },
+      "table": {
         "font": {
           "value": "{core.brand}",
           "type": "fontFamilies"
