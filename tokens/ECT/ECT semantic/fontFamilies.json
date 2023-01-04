@@ -311,6 +311,20 @@
           "type": "fontWeights"
         }
       },
+      "table-large-bold": {
+        "weight": {
+          "value": "{core.typeface.weight.bold}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "14px",
+          "type": "fontSizes"
+        }
+      },
       "table-medium-regular": {
         "line-height": {
           "value": "16px",
@@ -318,6 +332,20 @@
         },
         "size": {
           "value": "12px",
+          "type": "fontSizes"
+        },
+        "weight": {
+          "value": "{core.typeface.weight.regular}",
+          "type": "fontWeights"
+        }
+      },
+      "table-large-regular": {
+        "line-height": {
+          "value": "16px",
+          "type": "lineHeights"
+        },
+        "size": {
+          "value": "14px",
           "type": "fontSizes"
         },
         "weight": {

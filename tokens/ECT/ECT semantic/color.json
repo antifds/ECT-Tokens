@@ -262,6 +262,10 @@
         }
       },
       "alerts": {
+        "on-success-tint": {
+          "value": "{core.palette.success70}",
+          "type": "color"
+        },
         "success": {
           "value": "{core.palette.success60}",
           "type": "color"
@@ -271,11 +275,15 @@
           "type": "color"
         },
         "success-tint": {
-          "value": "{core.palette.success20}",
+          "value": "{core.palette.success10}",
           "type": "color"
         },
         "success-bg": {
           "value": "{core.palette.success05}",
+          "type": "color"
+        },
+        "on-ahead-tint": {
+          "value": "{core.palette.ahead70}",
           "type": "color"
         },
         "ahead": {
@@ -287,11 +295,15 @@
           "type": "color"
         },
         "ahead-tint": {
-          "value": "{core.palette.ahead20}",
+          "value": "{core.palette.ahead10}",
           "type": "color"
         },
         "ahead-bg": {
           "value": "{core.palette.ahead05}",
+          "type": "color"
+        },
+        "on-warning-tint": {
+          "value": "{core.palette.warning80}",
           "type": "color"
         },
         "warning": {
@@ -323,7 +335,7 @@
           "type": "color"
         },
         "critical-tint": {
-          "value": "{core.palette.red20}",
+          "value": "{core.palette.red10}",
           "type": "color"
         },
         "critical-bg": {

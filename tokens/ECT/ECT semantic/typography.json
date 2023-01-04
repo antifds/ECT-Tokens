@@ -212,6 +212,24 @@
             "fontSize": "{semantic.typescale.table-medium-regular.size}"
           },
           "type": "typography"
+        },
+        "large-regular": {
+          "value": {
+            "fontFamily": "{semantic.typescale.table.font}",
+            "fontWeight": "{semantic.typescale.table-large-regular.weight}",
+            "lineHeight": "{semantic.typescale.table-large-regular.line-height}",
+            "fontSize": "{semantic.typescale.table-large-regular.size}"
+          },
+          "type": "typography"
+        },
+        "large-bold": {
+          "value": {
+            "fontFamily": "{semantic.typescale.table.font}",
+            "fontWeight": "{semantic.typescale.table-large-bold.weight}",
+            "lineHeight": "{semantic.typescale.table-large-bold.line-height}",
+            "fontSize": "{semantic.typescale.table-large-bold.size}"
+          },
+          "type": "typography"
         }
       }
     }

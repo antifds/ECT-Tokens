@@ -153,10 +153,10 @@
       "semantic.color.icons.secondary": "S:501aed66d6a70d3f923d394314ee0d0f31cb75f5,",
       "semantic.color.icons.tertiary": "S:f40355bfe7aa8a77ef2e5b8212475390ad391e2f,",
       "semantic.color.icons.tertiary-dark": "S:d88b753b5ba91739620e0bcf7440e9d5e7382f07,",
-      "semantic.color.icons.critical": "S:88bf29f7e12de92896194626867e5588b8ea710f,",
-      "semantic.color.icons.success": "S:c0b16c9024081ce4b264fea00987b9426abb260d,",
-      "semantic.color.icons.ahead": "S:2b0e222cf9ecfcc8651f8d40092b89f7aead27c6,",
-      "semantic.color.icons.warning": "S:042511a3f08cd7cdb80a5913d0e6766f48b19507,",
+      "semantic.color.icons.critical": "S:e04d991d8bdef7ea745d4d90ccf562f0c1f17ab1,",
+      "semantic.color.icons.success": "S:000088decf943ee957eb74fa86ea7eaacc61b466,",
+      "semantic.color.icons.ahead": "S:6426b16a1faa740b3eb04fe24cfe976d0d661610,",
+      "semantic.color.icons.warning": "S:3fdd1e1d1fc0483f0db1e328de09f16d9ec601a5,",
       "semantic.color.icons.disabled": "S:375736c2d6318613b19a7214cc6c0e59f19fecbb,",
       "semantic.color.icons.on-disabled-bg": "S:e84ddf2243fe50dbd5df079621f899ca2c619a88,",
       "semantic.typography.headline.large": "S:fb77c49b732eb397f67d51f60a12737ca99e4cdd,",
@@ -182,13 +182,19 @@
       "semantic.typography.display.large": "S:f3eed1db6481039ca44935368c5f821ae1afb67d,",
       "semantic.typography.display.medium": "S:e8243f79685d1d1434cb3e9d8b278f4ec72bd5d4,",
       "semantic.typography.display.small": "S:cf214962bc0b86b70f7c8ce300e7acaa47f0b971,",
-      "semantic.color.icons.on-primary": "S:41740a68a583c8a1ac02bda62ba265ff6e2ed87e,",
+      "semantic.color.icons.on-primary": "S:b84991a33ee85606a2af0a9b8ee05dad2f76d8d4,",
       "semantic.typography.button.small-bold": "S:c24764233d47c7200b60d117f3b79fa3a1faa2e3,",
       "semantic.typography.button.small-regular": "S:fda5a600840639ea42ced5710047411af45bde42,",
       "semantic.typography.button.medium-bold": "S:3442c4afa11e63e7a17068c93bd9a25a5443fa02,",
       "semantic.typography.button.medium-regular": "S:29971cae10804298623618135fc695435fb24750,",
       "semantic.typography.table.medium-bold": "S:924b86624682c551fad510daf3bf0c9da0535ff7,",
-      "semantic.typography.table.medium-regular": "S:b40b5eef7356a7315e8bc1fa45999db8eb727fa0,"
+      "semantic.typography.table.medium-regular": "S:b40b5eef7356a7315e8bc1fa45999db8eb727fa0,",
+      "semantic.typography.table.large-regular": "S:00a13ce88eb0f084fffd6b827f87de3aaf8707d3,",
+      "semantic.typography.table.large-bold": "S:d69788a895b0714ed929ab2a1f2301f7da6e2125,",
+      "semantic.color.alerts.on-success-tint": "S:859f3cba1e439d99790add7f3fb73b6f0e2ed12a,",
+      "semantic.color.alerts.on-ahead-tint": "S:474cdea752d8b8d778098dba29264f0bb01643a6,",
+      "semantic.color.alerts.on-warning-tint": "S:aa839a1d06ae422fe80232e29c00c4258513b413,",
+      "semantic.color.icons.on-surface": "S:8051535af3f7c3cceb3cbe083253d02be9caf866,"
     }
   }
 ]

@@ -631,13 +631,9 @@
         "component-bg": {
           "value": {
             "spacing": "0px",
-            "fill": "{semantic.color.background.background}",
-            "borderRadius": "0",
+            "fill": "none",
             "borderWidthBottom": "1px",
-            "borderWidthTop": "0",
-            "borderWidthRight": "0",
-            "borderWidthLeft": "0",
-            "border": "{semantic.color.primary.primary}"
+            "borderColor": "{semantic.color.primary.primary}"
           },
           "type": "composition"
         }
