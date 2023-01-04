@@ -1018,12 +1018,6 @@
               }
             }
           }
-        },
-        "": {
-          "value": {
-            "border": "{border.semantic.selected}"
-          },
-          "type": "composition"
         }
       },
       "comp": {
@@ -1032,26 +1026,6 @@
           "fill": "{semantic.color.background.surface}",
           "borderRadius": "{semantic.border-radius.primary}",
           "border": "{border.semantic.selected}"
-        },
-        "type": "composition"
-      },
-      "comp2": {
-        "value": {
-          "borderWidth": "1px",
-          "borderRadius": "{semantic.border-radius.primary}",
-          "spacing": "{semantic.padding.simple-xs}",
-          "fill": "{semantic.color.background.surface}",
-          "borderColor": "{semantic.color.outline.selected}"
-        },
-        "type": "composition"
-      },
-      "test": {
-        "value": {
-          "borderWidth": "1px",
-          "borderColor": "{semantic.color.outline.selected}",
-          "fill": "{semantic.color.background.surface}",
-          "spacing": "{semantic.padding.round-s}",
-          "borderRadius": "{semantic.border-radius.primary}"
         },
         "type": "composition"
       }

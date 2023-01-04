@@ -633,5 +633,9 @@
         "type": "sizing"
       }
     }
+  },
+  "none": {
+    "value": "none",
+    "type": "asset"
   }
 }
