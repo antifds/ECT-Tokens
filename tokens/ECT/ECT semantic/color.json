@@ -187,10 +187,6 @@
           "type": "color"
         },
         "body-link": {
-          "value": "{semantic.color.secondary.secondary}",
-          "type": "color"
-        },
-        "body-link-hover": {
           "value": "{semantic.color.primary.primary}",
           "type": "color"
         },

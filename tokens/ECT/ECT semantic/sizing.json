@@ -18,6 +18,20 @@
           "value": "{core.sizing.s}",
           "type": "sizing"
         }
+      },
+      "border": {
+        "s": {
+          "value": "1px",
+          "type": "sizing"
+        },
+        "m": {
+          "value": "2px",
+          "type": "sizing"
+        },
+        "l": {
+          "value": "3px",
+          "type": "sizing"
+        }
       }
     }
   }

@@ -631,11 +631,11 @@
       "xl": {
         "value": "24px",
         "type": "sizing"
+      },
+      "xxl": {
+        "value": "32px",
+        "type": "sizing"
       }
     }
-  },
-  "none": {
-    "value": "none",
-    "type": "asset"
   }
 }

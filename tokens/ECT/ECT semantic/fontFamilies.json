@@ -327,7 +327,7 @@
       },
       "table-medium-regular": {
         "line-height": {
-          "value": "16px",
+          "value": "14px",
           "type": "lineHeights"
         },
         "size": {
@@ -341,7 +341,7 @@
       },
       "table-large-regular": {
         "line-height": {
-          "value": "16px",
+          "value": "14px",
           "type": "lineHeights"
         },
         "size": {

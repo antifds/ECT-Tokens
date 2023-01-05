@@ -1,10 +1,10 @@
 {
-  "border": {
-    "semantic": {
+  "semantic": {
+    "border": {
       "primary": {
         "value": {
           "color": "{semantic.color.outline.primary}",
-          "width": "1px",
+          "width": "{semantic.sizing.border.s}",
           "style": "solid"
         },
         "type": "border"

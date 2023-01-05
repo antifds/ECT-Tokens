@@ -1025,7 +1025,7 @@
           "spacing": "{core.spacing.xs}",
           "fill": "{semantic.color.background.surface}",
           "borderRadius": "{semantic.border-radius.primary}",
-          "border": "{border.semantic.selected}"
+          "border": "{semantic.border.selected}"
         },
         "type": "composition"
       }
@@ -1118,6 +1118,126 @@
             "fill": "{semantic.color.icons.on-surface}"
           },
           "type": "composition"
+        }
+      }
+    },
+    "table": {
+      "base-component": {
+        "text-cell": {
+          "bg": {
+            "value": {
+              "height": "{core.sizing.xxl}",
+              "itemSpacing": "{semantic.spacing.gap.gap-xxs}",
+              "spacing": "{semantic.padding.simple-s}"
+            },
+            "type": "composition"
+          },
+          "large": {
+            "text-bold": {
+              "value": {
+                "typography": "{semantic.typography.table.large-bold}"
+              },
+              "type": "composition"
+            },
+            "text-regular": {
+              "value": {
+                "typography": "{semantic.typography.table.large-regular}"
+              },
+              "type": "composition"
+            }
+          },
+          "medium": {
+            "text-bold": {
+              "value": {
+                "typography": "{semantic.typography.table.medium-bold}"
+              },
+              "type": "composition"
+            },
+            "text-regular": {
+              "value": {
+                "typography": "{semantic.typography.table.medium-regular}"
+              },
+              "type": "composition"
+            }
+          }
+        }
+      },
+      "text-cell": {
+        "no-border": {
+          "default": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.surface}"
+              },
+              "type": "composition"
+            }
+          },
+          "critical": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.critical-tint}"
+              },
+              "type": "composition"
+            }
+          },
+          "ahead": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.ahead-tint}"
+              },
+              "type": "composition"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.success-tint}"
+              },
+              "type": "composition"
+            }
+          }
+        },
+        "with-border": {
+          "default": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.surface}",
+                "borderWidthRight": "1px",
+                "borderColor": "{semantic.color.outline.secondary}"
+              },
+              "type": "composition"
+            }
+          },
+          "critical": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.critical-tint}",
+                "borderWidthRight": "1px",
+                "borderColor": "{semantic.color.outline.secondary}"
+              },
+              "type": "composition"
+            }
+          },
+          "ahead": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.ahead-tint}",
+                "borderWidthRight": "1px",
+                "borderColor": "{semantic.color.outline.secondary}"
+              },
+              "type": "composition"
+            }
+          },
+          "success": {
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.background.alert.success-tint}",
+                "borderWidthRight": "1px",
+                "borderColor": "{semantic.color.outline.secondary}"
+              },
+              "type": "composition"
+            }
+          }
         }
       }
     }
