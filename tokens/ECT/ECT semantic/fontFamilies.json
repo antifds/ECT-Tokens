@@ -302,6 +302,16 @@
           "value": "16px",
           "type": "lineHeights"
         },
+        "weight": {
+          "value": "{core.typeface.weight.bold}",
+          "type": "fontWeights"
+        },
+        "size": {
+          "value": "14px",
+          "type": "fontSizes"
+        }
+      },
+      "table-small-bold": {
         "size": {
           "value": "12px",
           "type": "fontSizes"
@@ -309,20 +319,10 @@
         "weight": {
           "value": "{core.typeface.weight.bold}",
           "type": "fontWeights"
-        }
-      },
-      "table-large-bold": {
-        "weight": {
-          "value": "{core.typeface.weight.bold}",
-          "type": "fontWeights"
         },
         "line-height": {
           "value": "16px",
           "type": "lineHeights"
-        },
-        "size": {
-          "value": "14px",
-          "type": "fontSizes"
         }
       },
       "table-medium-regular": {
@@ -331,7 +331,7 @@
           "type": "lineHeights"
         },
         "size": {
-          "value": "12px",
+          "value": "14px",
           "type": "fontSizes"
         },
         "weight": {
@@ -339,18 +339,18 @@
           "type": "fontWeights"
         }
       },
-      "table-large-regular": {
-        "line-height": {
-          "value": "14px",
-          "type": "lineHeights"
-        },
+      "table-small-regular": {
         "size": {
-          "value": "14px",
+          "value": "12px",
           "type": "fontSizes"
         },
         "weight": {
           "value": "{core.typeface.weight.regular}",
           "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "14px",
+          "type": "lineHeights"
         }
       },
       "display": {

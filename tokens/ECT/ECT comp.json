@@ -1135,20 +1135,6 @@
           "large": {
             "text-bold": {
               "value": {
-                "typography": "{semantic.typography.table.large-bold}"
-              },
-              "type": "composition"
-            },
-            "text-regular": {
-              "value": {
-                "typography": "{semantic.typography.table.large-regular}"
-              },
-              "type": "composition"
-            }
-          },
-          "medium": {
-            "text-bold": {
-              "value": {
                 "typography": "{semantic.typography.table.medium-bold}"
               },
               "type": "composition"
@@ -1156,6 +1142,20 @@
             "text-regular": {
               "value": {
                 "typography": "{semantic.typography.table.medium-regular}"
+              },
+              "type": "composition"
+            }
+          },
+          "medium": {
+            "text-bold": {
+              "value": {
+                "typography": "{semantic.typography.table.small-bold}"
+              },
+              "type": "composition"
+            },
+            "text-regular": {
+              "value": {
+                "typography": "{semantic.typography.table.small-regular}"
               },
               "type": "composition"
             }

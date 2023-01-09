@@ -88,6 +88,10 @@
           "value": "{semantic.color.primary.primary-container}",
           "type": "color"
         },
+        "label3": {
+          "value": "{core.palette.primary10}",
+          "type": "color"
+        },
         "table-header": {
           "value": "{semantic.color.secondary.secondary-container}",
           "type": "color"

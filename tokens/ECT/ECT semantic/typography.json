@@ -195,12 +195,21 @@
         }
       },
       "table": {
-        "medium-bold": {
+        "small-bold": {
           "value": {
             "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-medium-bold.weight}",
-            "lineHeight": "{semantic.typescale.table-medium-bold.line-height}",
-            "fontSize": "{semantic.typescale.table-medium-bold.size}"
+            "fontWeight": "{semantic.typescale.table-small-bold.weight}",
+            "lineHeight": "{semantic.typescale.table-small-bold.line-height}",
+            "fontSize": "{semantic.typescale.table-small-bold.size}"
+          },
+          "type": "typography"
+        },
+        "small-regular": {
+          "value": {
+            "fontFamily": "{semantic.typescale.table.font}",
+            "fontWeight": "{semantic.typescale.table-small-regular.weight}",
+            "lineHeight": "{semantic.typescale.table-small-regular.line-height}",
+            "fontSize": "{semantic.typescale.table-small-regular.size}"
           },
           "type": "typography"
         },
@@ -213,21 +222,12 @@
           },
           "type": "typography"
         },
-        "large-regular": {
+        "medium-bold": {
           "value": {
             "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-large-regular.weight}",
-            "lineHeight": "{semantic.typescale.table-large-regular.line-height}",
-            "fontSize": "{semantic.typescale.table-large-regular.size}"
-          },
-          "type": "typography"
-        },
-        "large-bold": {
-          "value": {
-            "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-large-bold.weight}",
-            "lineHeight": "{semantic.typescale.table-large-bold.line-height}",
-            "fontSize": "{semantic.typescale.table-large-bold.size}"
+            "fontWeight": "{semantic.typescale.table-medium-bold.weight}",
+            "lineHeight": "{semantic.typescale.table-medium-bold.line-height}",
+            "fontSize": "{semantic.typescale.table-medium-bold.size}"
           },
           "type": "typography"
         }
