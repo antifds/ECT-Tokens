@@ -21,7 +21,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.on-primary}"
+              "fill": "{semantic.color.icon.on-primary}"
             },
             "type": "composition"
           }
@@ -45,7 +45,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.on-primary}"
+              "fill": "{semantic.color.icon.on-primary}"
             },
             "type": "composition"
           }
@@ -69,7 +69,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.on-primary}"
+              "fill": "{semantic.color.icon.on-primary}"
             },
             "type": "composition"
           }
@@ -104,23 +104,23 @@
           "bg": {
             "value": {
               "spacing": "{semantic.padding.round-m}",
-              "fill": "{semantic.color.primary.primary-container}",
+              "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
-              "border": "{semantic.color.primary.on-primary-container}"
+              "border": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "text": {
             "value": {
               "typography": "{semantic.typography.button.medium-bold}",
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           }
@@ -129,24 +129,23 @@
           "bg": {
             "value": {
               "spacing": "{semantic.padding.round-m}",
-              "fill": "{semantic.color.primary.primary-container}",
+              "fill": "{core.palette.secondary05}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
-              "border": "{semantic.color.primary.on-primary-container}",
-              "boxShadow": "{semantic.elevation.level1}"
+              "border": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "text": {
             "value": {
               "typography": "{semantic.typography.button.medium-bold}",
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           }
@@ -155,10 +154,10 @@
           "bg": {
             "value": {
               "spacing": "{semantic.padding.round-m}",
-              "fill": "{core.palette.primary10}",
+              "fill": "{core.palette.secondary10}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
-              "border": "{semantic.color.primary.on-primary-container}",
+              "border": "{semantic.color.primary.primary}",
               "boxShadow": "{semantic.elevation.level1}"
             },
             "type": "composition"
@@ -166,13 +165,13 @@
           "text": {
             "value": {
               "typography": "{semantic.typography.button.medium-bold}",
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.primary.on-primary-container}"
+              "fill": "{semantic.color.primary.primary}"
             },
             "type": "composition"
           }
@@ -294,7 +293,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.disabled}"
+              "fill": "{semantic.color.icon.disabled}"
             },
             "type": "composition"
           }
@@ -391,7 +390,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.disabled}"
+              "fill": "{semantic.color.icon.disabled}"
             },
             "type": "composition"
           }
@@ -409,7 +408,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.interactive}"
+              "fill": "{semantic.color.icon.interactive}"
             },
             "type": "composition"
           }
@@ -426,7 +425,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.interactive}"
+              "fill": "{semantic.color.icon.interactive}"
             },
             "type": "composition"
           }
@@ -443,7 +442,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.interactive}"
+              "fill": "{semantic.color.icon.interactive}"
             },
             "type": "composition"
           }
@@ -459,7 +458,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.disabled}"
+              "fill": "{semantic.color.icon.disabled}"
             },
             "type": "composition"
           }
@@ -556,7 +555,7 @@
           },
           "icon": {
             "value": {
-              "fill": "{semantic.color.icons.disabled}"
+              "fill": "{semantic.color.icon.disabled}"
             },
             "type": "composition"
           }
@@ -659,7 +658,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -682,7 +681,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -705,7 +704,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -720,14 +719,14 @@
             },
             "bg": {
               "value": {
-                "fill": "{semantic.color.icons.disabled}",
+                "fill": "{semantic.color.icon.disabled}",
                 "borderRadius": "{core.border-radius.m}"
               },
               "type": "composition"
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -751,7 +750,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -774,7 +773,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -797,7 +796,7 @@
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -812,14 +811,14 @@
             },
             "bg": {
               "value": {
-                "fill": "{semantic.color.icons.disabled}",
+                "fill": "{semantic.color.icon.disabled}",
                 "borderRadius": "{core.border-radius.m}"
               },
               "type": "composition"
             },
             "icon": {
               "value": {
-                "fill": "{semantic.color.icons.on-primary}"
+                "fill": "{semantic.color.icon.on-primary}"
               },
               "type": "composition"
             }
@@ -892,7 +891,7 @@
             },
             "bg": {
               "value": {
-                "border": "{semantic.color.icons.disabled}",
+                "border": "{semantic.color.icon.disabled}",
                 "borderRadius": "{core.border-radius.m}",
                 "fill": "{semantic.color.background.action-disabled}",
                 "borderWidth": "2px"
@@ -1049,13 +1048,13 @@
         },
         "filter-icon": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         },
         "right-arrow": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         }
@@ -1079,13 +1078,13 @@
         },
         "filter-icon": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         },
         "right-arrow": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         }
@@ -1109,13 +1108,13 @@
         },
         "filter-icon": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         },
         "right-arrow": {
           "value": {
-            "fill": "{semantic.color.icons.on-surface}"
+            "fill": "{semantic.color.icon.on-surface}"
           },
           "type": "composition"
         }
