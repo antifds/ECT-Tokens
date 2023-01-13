@@ -114,6 +114,14 @@
           },
           "type": "border"
         }
+      },
+      "focused": {
+        "value": {
+          "color": "{core.palette.warning50}",
+          "width": "4px",
+          "style": "solid"
+        },
+        "type": "border"
       }
     }
   }
