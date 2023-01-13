@@ -185,10 +185,6 @@
       "semantic.color.alerts.on-warning-tint": "S:aa839a1d06ae422fe80232e29c00c4258513b413,",
       "semantic.color.icons.on-surface": "S:8051535af3f7c3cceb3cbe083253d02be9caf866,",
       "semantic.color.background.label3": "S:8a2243b04521d8055bfcdb0b0d3c51e35f806562,",
-      "semantic.typography.table.small-bold": "S:7cfd83579c719a3971f7614a7476322dcb76361e,",
-      "semantic.typography.table.small-regular": "S:22a4e23672a638c8356f31fba493c0a02c916386,",
-      "semantic.typography.table.medium-regular": "S:b40b5eef7356a7315e8bc1fa45999db8eb727fa0,",
-      "semantic.typography.table.medium-bold": "S:924b86624682c551fad510daf3bf0c9da0535ff7,",
       "semantic.color.icons.alert.critical": "S:e04d991d8bdef7ea745d4d90ccf562f0c1f17ab1,",
       "semantic.color.icons.alert.success": "S:000088decf943ee957eb74fa86ea7eaacc61b466,",
       "semantic.color.icons.alert.ahead": "S:6426b16a1faa740b3eb04fe24cfe976d0d661610,",
@@ -204,7 +200,15 @@
       "semantic.color.icon.disabled": "S:bb473fc3d380d69cd7775eac251c9a162a1e31b6,",
       "semantic.color.icon.on-disabled-bg": "S:ac7baf58ca3d4c975ea5abbef8fb7644a5a43c56,",
       "semantic.color.icon.on-primary": "S:bc9c6c7569033d4fba34317a4f0101db3b822ed1,",
-      "semantic.color.icon.on-surface": "S:e9d7db613d3fbdc9f761aeaadd771ae625247322,"
+      "semantic.color.icon.on-surface": "S:e9d7db613d3fbdc9f761aeaadd771ae625247322,",
+      "semantic.typography.table.small.bold": "S:e1fa2ba555b1236ba925815639f129d1ada11e32,",
+      "semantic.typography.table.small.bold-italic": "S:59968afbf46bc540d102c3a575fe98ceef59f6ec,",
+      "semantic.typography.table.small.regular": "S:f282f030bc9e33c941b2f3cabe38555b96dec177,",
+      "semantic.typography.table.small.regular-italic": "S:a4c8557e4538d6d63abd8c3d484e6493160c6f36,",
+      "semantic.typography.table.medium.regular": "S:301cc8370313e475407cf6e6c23484b240ba6127,",
+      "semantic.typography.table.medium.regular-italic": "S:e66c6d651b926d5d1d6aace03a2ca1736587eecb,",
+      "semantic.typography.table.medium.bold": "S:df7f36417951ec0c49d247c600ddee01e4fe970b,",
+      "semantic.typography.table.medium.bold-italic": "S:e8427516071c521ae99c7ad7ed1283a9da0c3ea2,"
     }
   }
 ]

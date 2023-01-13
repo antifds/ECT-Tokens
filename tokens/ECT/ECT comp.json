@@ -1288,13 +1288,25 @@
           "large": {
             "text-bold": {
               "value": {
-                "typography": "{semantic.typography.table.medium-bold}"
+                "typography": "{semantic.typography.table.medium.bold}"
+              },
+              "type": "composition"
+            },
+            "text-bold-italic": {
+              "value": {
+                "typography": "{semantic.typography.table.medium.bold-italic}"
               },
               "type": "composition"
             },
             "text-regular": {
               "value": {
-                "typography": "{semantic.typography.table.medium-regular}"
+                "typography": "{semantic.typography.table.medium.regular}"
+              },
+              "type": "composition"
+            },
+            "text-italic": {
+              "value": {
+                "typography": "{semantic.typography.table.medium.regular-italic}"
               },
               "type": "composition"
             }
@@ -1302,13 +1314,25 @@
           "medium": {
             "text-bold": {
               "value": {
-                "typography": "{semantic.typography.table.small-bold}"
+                "typography": "{semantic.typography.table.small.bold}"
+              },
+              "type": "composition"
+            },
+            "text-bold-italic": {
+              "value": {
+                "typography": "{semantic.typography.table.small.bold-italic}"
               },
               "type": "composition"
             },
             "text-regular": {
               "value": {
-                "typography": "{semantic.typography.table.small-regular}"
+                "typography": "{semantic.typography.table.small.regular}"
+              },
+              "type": "composition"
+            },
+            "text-italic": {
+              "value": {
+                "typography": "{semantic.typography.table.small.regular-italic}"
               },
               "type": "composition"
             }

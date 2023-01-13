@@ -195,41 +195,81 @@
         }
       },
       "table": {
-        "small-bold": {
-          "value": {
-            "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-small-bold.weight}",
-            "lineHeight": "{semantic.typescale.table-small-bold.line-height}",
-            "fontSize": "{semantic.typescale.table-small-bold.size}"
+        "small": {
+          "bold": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-small-bold.weight}",
+              "lineHeight": "{semantic.typescale.table-small-bold.line-height}",
+              "fontSize": "{semantic.typescale.table-small-bold.size}"
+            },
+            "type": "typography"
           },
-          "type": "typography"
+          "bold-italic": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-small-bold-italic.weight}",
+              "lineHeight": "{semantic.typescale.table-small-bold-italic.line-height}",
+              "fontSize": "{semantic.typescale.table-small-bold-italic.size}"
+            },
+            "type": "typography"
+          },
+          "regular": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-small-regular.weight}",
+              "lineHeight": "{semantic.typescale.table-small-regular.line-height}",
+              "fontSize": "{semantic.typescale.table-small-regular.size}"
+            },
+            "type": "typography"
+          },
+          "regular-italic": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-small-regular-italic.weight}",
+              "lineHeight": "{semantic.typescale.table-small-regular-italic.line-height}",
+              "fontSize": "{semantic.typescale.table-small-regular-italic.size}"
+            },
+            "type": "typography"
+          }
         },
-        "small-regular": {
-          "value": {
-            "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-small-regular.weight}",
-            "lineHeight": "{semantic.typescale.table-small-regular.line-height}",
-            "fontSize": "{semantic.typescale.table-small-regular.size}"
+        "medium": {
+          "regular": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-medium-regular.weight}",
+              "lineHeight": "{semantic.typescale.table-medium-regular.line-height}",
+              "fontSize": "{semantic.typescale.table-medium-regular.size}"
+            },
+            "type": "typography"
           },
-          "type": "typography"
-        },
-        "medium-regular": {
-          "value": {
-            "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-medium-regular.weight}",
-            "lineHeight": "{semantic.typescale.table-medium-regular.line-height}",
-            "fontSize": "{semantic.typescale.table-medium-regular.size}"
+          "regular-italic": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-medium-regular-italic.weight}",
+              "lineHeight": "{semantic.typescale.table-medium-regular-italic.line-height}",
+              "fontSize": "{semantic.typescale.table-medium-regular-italic.size}"
+            },
+            "type": "typography"
           },
-          "type": "typography"
-        },
-        "medium-bold": {
-          "value": {
-            "fontFamily": "{semantic.typescale.table.font}",
-            "fontWeight": "{semantic.typescale.table-medium-bold.weight}",
-            "lineHeight": "{semantic.typescale.table-medium-bold.line-height}",
-            "fontSize": "{semantic.typescale.table-medium-bold.size}"
+          "bold": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-medium-bold.weight}",
+              "lineHeight": "{semantic.typescale.table-medium-bold.line-height}",
+              "fontSize": "{semantic.typescale.table-medium-bold.size}"
+            },
+            "type": "typography"
           },
-          "type": "typography"
+          "bold-italic": {
+            "value": {
+              "fontFamily": "{semantic.typescale.table.font}",
+              "fontWeight": "{semantic.typescale.table-medium-bold-italic.weight}",
+              "lineHeight": "{semantic.typescale.table-medium-bold-italic.line-height}",
+              "fontSize": "{semantic.typescale.table-medium-bold-italic.size}"
+            },
+            "type": "typography"
+          }
         }
       }
     }

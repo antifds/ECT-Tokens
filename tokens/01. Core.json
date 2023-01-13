@@ -475,6 +475,14 @@
         "black": {
           "value": "900",
           "type": "fontWeights"
+        },
+        "italic": {
+          "value": "Italic",
+          "type": "fontWeights"
+        },
+        "bold-italic": {
+          "value": "Bold Italic",
+          "type": "fontWeights"
         }
       }
     },
