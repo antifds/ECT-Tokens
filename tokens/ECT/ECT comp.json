@@ -798,8 +798,8 @@
           "default": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -820,9 +820,9 @@
           "hover": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -843,9 +843,9 @@
           "pressed": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -866,14 +866,38 @@
           "disabled": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
             "bg": {
               "value": {
                 "fill": "{semantic.color.icon.disabled}",
+                "borderRadius": "{core.border-radius.m}"
+              },
+              "type": "composition"
+            },
+            "icon": {
+              "value": {
+                "fill": "{semantic.color.icon.on-primary}"
+              },
+              "type": "composition"
+            }
+          },
+          "focused": {
+            "comp": {
+              "value": {
+                "borderRadius": "100px",
+                "spacing": "6px",
+                "borderWidth": "1px",
+                "borderColor": "{semantic.color.outline.selected}"
+              },
+              "type": "composition"
+            },
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.primary.primary}",
                 "borderRadius": "{core.border-radius.m}"
               },
               "type": "composition"
@@ -890,8 +914,8 @@
           "default": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -912,9 +936,9 @@
           "hover": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -935,9 +959,9 @@
           "pressed": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -958,8 +982,8 @@
           "disabled": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -976,14 +1000,38 @@
               },
               "type": "composition"
             }
+          },
+          "focused": {
+            "comp": {
+              "value": {
+                "borderRadius": "100px",
+                "spacing": "6px",
+                "borderWidth": "1px",
+                "borderColor": "{semantic.color.outline.selected}"
+              },
+              "type": "composition"
+            },
+            "bg": {
+              "value": {
+                "fill": "{semantic.color.primary.primary}",
+                "borderRadius": "{core.border-radius.m}"
+              },
+              "type": "composition"
+            },
+            "icon": {
+              "value": {
+                "fill": "{semantic.color.icon.on-primary}"
+              },
+              "type": "composition"
+            }
           }
         },
         "unchekced": {
           "default": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -1000,9 +1048,9 @@
           "hover": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -1019,9 +1067,9 @@
           "pressed": {
             "comp": {
               "value": {
-                "borderRadius": "100",
+                "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6"
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -1038,8 +1086,8 @@
           "disabled": {
             "comp": {
               "value": {
-                "borderRadius": "100",
-                "spacing": "6"
+                "borderRadius": "100px",
+                "spacing": "6px"
               },
               "type": "composition"
             },
@@ -1049,6 +1097,26 @@
                 "borderRadius": "{core.border-radius.m}",
                 "fill": "{semantic.color.background.action-disabled}",
                 "borderWidth": "2px"
+              },
+              "type": "composition"
+            }
+          },
+          "focused": {
+            "comp": {
+              "value": {
+                "borderRadius": "100px",
+                "spacing": "6px",
+                "borderWidth": "1px",
+                "borderColor": "{semantic.color.outline.selected}"
+              },
+              "type": "composition"
+            },
+            "bg": {
+              "value": {
+                "border": "{semantic.color.secondary.secondary}",
+                "borderRadius": "{core.border-radius.m}",
+                "borderWidth": "2px",
+                "fill": "{semantic.color.background.surface}"
               },
               "type": "composition"
             }
