@@ -266,7 +266,6 @@
           "bg": {
             "value": {
               "spacing": "{semantic.padding.round-m}",
-              "fill": "{semantic.color.background.surface}",
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}"
             },
