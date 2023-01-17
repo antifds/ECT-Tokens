@@ -242,7 +242,7 @@
               "borderRadius": "{semantic.border-radius.primary}",
               "itemSpacing": "{semantic.spacing.gap.gap-xs}",
               "borderColor": "{semantic.color.primary.primary}",
-              "borderWidth": "3px"
+              "borderWidth": "2px"
             },
             "type": "composition"
           },
