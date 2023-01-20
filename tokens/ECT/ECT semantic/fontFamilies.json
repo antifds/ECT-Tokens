@@ -321,13 +321,13 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "16px",
+          "value": "14px",
           "type": "lineHeights"
         }
       },
       "table-medium-regular": {
         "line-height": {
-          "value": "14px",
+          "value": "16px",
           "type": "lineHeights"
         },
         "size": {
@@ -385,7 +385,7 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "16px",
+          "value": "14px",
           "type": "lineHeights"
         },
         "size": {
@@ -399,7 +399,7 @@
           "type": "fontWeights"
         },
         "line-height": {
-          "value": "14px",
+          "value": "16px",
           "type": "lineHeights"
         },
         "size": {
