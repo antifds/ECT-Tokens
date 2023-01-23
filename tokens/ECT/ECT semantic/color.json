@@ -55,7 +55,7 @@
           "type": "color"
         },
         "tertiary-container": {
-          "value": "{core.palette.neutral05}",
+          "value": "{core.palette.neutral10}",
           "type": "color"
         },
         "on-tertiary-container": {
