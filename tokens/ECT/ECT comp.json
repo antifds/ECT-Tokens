@@ -798,7 +798,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -821,7 +821,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -844,7 +844,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -866,7 +866,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -888,7 +888,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px",
+                "spacing": "5px",
                 "borderWidth": "1px",
                 "borderColor": "{semantic.color.outline.selected}"
               },
@@ -914,7 +914,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -937,7 +937,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -960,7 +960,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -982,7 +982,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -1004,7 +1004,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px",
+                "spacing": "5px",
                 "borderWidth": "1px",
                 "borderColor": "{semantic.color.outline.selected}"
               },
@@ -1030,7 +1030,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -1049,7 +1049,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-lighter}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -1068,7 +1068,7 @@
               "value": {
                 "borderRadius": "100px",
                 "fill": "{semantic.color.background.transparency.primary-light}",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -1086,7 +1086,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px"
+                "spacing": "5px"
               },
               "type": "composition"
             },
@@ -1104,7 +1104,7 @@
             "comp": {
               "value": {
                 "borderRadius": "100px",
-                "spacing": "6px",
+                "spacing": "5px",
                 "borderWidth": "1px",
                 "borderColor": "{semantic.color.outline.selected}"
               },
